@@ -16,10 +16,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T01:51:45Z",
+            "last_commit": "2026-08-13T06:19:01Z",
             "owner": "ant-design",
             "repo": "ant-design",
-            "stars": 99060
+            "stars": 99066
           }
         },
         {
@@ -657,7 +657,7 @@
             "last_commit": "2019-10-19T07:03:24Z",
             "owner": "timdouglas",
             "repo": "sublime-less2css",
-            "stars": 200
+            "stars": 199
           }
         },
         {
@@ -787,7 +787,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:05:24.575Z",
+    "last_updated": "2026-08-13T13:39:43.681Z",
     "original_repository": "LucasBassetti/awesome-less",
     "original_repository_sha": "ca13f688d5a8d115d8bbb52a6067b7054f5a3036",
     "enhanced_repository": "enhansome/enhansome-less",
