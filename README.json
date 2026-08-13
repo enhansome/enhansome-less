@@ -1,0 +1,797 @@
+{
+  "items": [
+    {
+      "description": "Less is a open source dynamic style sheet language that can be compiled into Cascading Style Sheets (CSS) and run on the client side or server side. Designed by Alexis Sellier, Less is influenced by Sass and has influenced the newer \"SCSS\" syntax of Sass, which adapted its CSS-like block formatting syntax. Less provides the following mechanisms: variables, nesting, mixins, operators and functions; the main difference between Less and other CSS precompilers being that Less allows real-time compilation via Less by the browser. Font: Wikipedia\nBack to top",
+      "items": [],
+      "title": "About"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Ant Design",
+          "description": "An enterprise-class UI design language and React-based implementation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T01:51:45Z",
+            "owner": "ant-design",
+            "repo": "ant-design",
+            "stars": 99060
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Less Rails",
+          "description": "Less for Rails.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2022-02-10T11:29:39Z",
+            "owner": "metaskills",
+            "repo": "less-rails",
+            "stars": 339
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CSSHórus",
+          "description": "Library for development of responsive and mobile websites.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2014-04-16T18:56:14Z",
+            "owner": "firminoweb",
+            "repo": "csshorus",
+            "stars": 69
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bootstrap a11y theme",
+          "description": "Makes web accessibility easier for Bootstrap developers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2014-02-27T23:34:04Z",
+            "owner": "bassjobsen",
+            "repo": "bootstrap-a11y-theme",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Material Design for Bootstrap",
+          "description": "Material Design for Bootstrap is a Bootstrap V3 compatible theme; it is an easy way to use the new Material Design guidelines by Google in your Bootstrap 3 based application.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2021-05-21T09:34:21Z",
+            "owner": "FezVrasta",
+            "repo": "bootstrap-material-design",
+            "stars": 25
+          }
+        }
+      ],
+      "title": "UI/Theme Frameworks and Components"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Libraries and Mixins"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Framework",
+          "description": "Less Framework is a CSS grid system for designing adaptive web sites. It contains 4 layouts and 3 sets of typography presets, all based on a single grid.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "CSS",
+            "last_commit": "2016-11-27T10:49:25Z",
+            "owner": "jonikorpi",
+            "repo": "Less-Framework",
+            "stars": 696
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bootstrap Grid Only",
+          "description": "Bootstrap's responsive grid and responsive utility classes only, without any extras. Lightweight yet still powerful. Style to taste.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2017-08-16T12:38:02Z",
+            "owner": "zirafa",
+            "repo": "bootstrap-grid-only",
+            "stars": 445
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Order.Less",
+          "description": "Baseline alignment, column grids and modular scales.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2017-08-09T09:28:22Z",
+            "owner": "chromice",
+            "repo": "order.less",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Grid System",
+          "description": "Super-easy to use, markup-independent grid system.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2015-10-07T20:50:52Z",
+            "owner": "thejspro",
+            "repo": "less-grid-system",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Less Zen Grid",
+          "description": "Implementation of Zen Grids in Less.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2014-09-08T21:59:48Z",
+            "owner": "bassjobsen",
+            "repo": "LESS-Zen-Grid",
+            "stars": 5
+          }
+        }
+      ],
+      "title": "Grid"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "CSS and Media Query Strategies",
+          "description": "Using Less CSS to develop a media query driven solution for modern and legacy browsers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2012-11-16T09:43:18Z",
+            "owner": "buymeasoda",
+            "repo": "less-media-queries",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Media Queries Library",
+          "description": "Really simple media queries in Less.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "CSS",
+            "last_commit": "2016-01-12T15:04:42Z",
+            "owner": "mrmlnc",
+            "repo": "less-mq",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Media Query to Type",
+          "description": "A method for creating an IE specific stylesheet that allows the content of media queries to become accessible to Internet Explorer 8 and below.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2014-01-09T21:30:17Z",
+            "owner": "himedlooff",
+            "repo": "media-query-to-type",
+            "stars": 10
+          }
+        }
+      ],
+      "title": "Media Queries"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Animate Less",
+          "description": "Port of Dan Eden's Animate.css to Less.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2019-08-05T15:20:48Z",
+            "owner": "machito",
+            "repo": "animate.less",
+            "stars": 530
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cube Less",
+          "description": "3D (animated) cube using only CSS (Less), originally used by LeanCloud (aka. AVOS Cloud).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Less",
+            "last_commit": "2026-07-07T13:18:44Z",
+            "owner": "sparanoid",
+            "repo": "cube.less",
+            "stars": 55
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Animate",
+          "description": "A library of CSS3 keyframe animations authored using Less.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2017-09-06T04:17:37Z",
+            "owner": "joshuapekera",
+            "repo": "animate",
+            "stars": 44
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Less Burguer",
+          "description": "Port of Sass Burger to Less.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2015-12-01T18:04:34Z",
+            "owner": "MarkRabey",
+            "repo": "less-burger",
+            "stars": 6
+          }
+        }
+      ],
+      "title": "Animation"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Retina.js",
+          "description": "JavaScript, SCSS, Sass, Less, and Stylus helpers for rendering high-resolution image variants.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2026-04-14T05:58:04Z",
+            "owner": "strues",
+            "repo": "retinajs",
+            "stars": 4379
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lesshat",
+          "description": "Smart mixins library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-03-23T14:21:36Z",
+            "owner": "madebysource",
+            "repo": "lesshat",
+            "stars": 2170
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Preboot",
+          "description": "Collection of mixins and variables for writing better CSS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2016-01-20T20:45:01Z",
+            "owner": "mdo",
+            "repo": "preboot",
+            "stars": 1664
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Est",
+          "description": "Mixin library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Less",
+            "last_commit": "2023-03-02T06:28:13Z",
+            "owner": "ecomfe",
+            "repo": "est",
+            "stars": 392
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dynamic Stylesheet",
+          "description": "Set of useful mixins.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2015-01-15T16:13:37Z",
+            "owner": "mrkrupski",
+            "repo": "LESS-Dynamic-Stylesheet",
+            "stars": 96
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Shape",
+          "description": "Collection of mixins for various shapes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2013-10-22T21:05:14Z",
+            "owner": "fahad19",
+            "repo": "shape.less",
+            "stars": 35
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bidi",
+          "description": "Set of mixins for creating bi-directional styling.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2016-03-27T21:57:50Z",
+            "owner": "danielkatz",
+            "repo": "less-bidi",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Normalize",
+          "description": "Modularized famous normalize.css using Less.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2018-11-16T23:55:29Z",
+            "owner": "segundofdez",
+            "repo": "normalize.less",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lessmore",
+          "description": "Mixins library. Cross-browser support for the CSS3 features and more.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2017-02-27T22:33:39Z",
+            "owner": "belyan",
+            "repo": "lessmore",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TRRtoolbelt",
+          "description": "Mixins and functions for common actions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2014-01-09T22:11:56Z",
+            "owner": "therebelrobot",
+            "repo": "tRRtoolbelt.less",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Homeless",
+          "description": "Helpful functions.",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "Lessley",
+          "description": "A jasmine like testing suite written in pure Less.",
+          "children": []
+        }
+      ],
+      "title": "Miscellaneous"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Handshake Style Guide",
+          "description": "This guide presents a collection of best-practices and coding conventions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2016-10-10T15:07:58Z",
+            "owner": "handshake",
+            "repo": "less-style-guide",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WebMD Health Services Style Guide",
+          "description": "This document outlines CSS/Less best practices at WebMD Health Services.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2014-06-06T23:29:55Z",
+            "owner": "bitmap",
+            "repo": "less-styleguide",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Style Guides"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Ports of Less"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Less Engine",
+          "description": "Runs Less in the Rhino JVM-based JavaScript interpreter.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-10-13T09:48:34Z",
+            "owner": "asual",
+            "repo": "lesscss-engine",
+            "stars": 219
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Less CSS Compiler for Java",
+          "description": "Runs Less in the Rhino JVM-based JavaScript interprete.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2018-10-22T12:48:00Z",
+            "owner": "marceloverdijk",
+            "repo": "lesscss-java",
+            "stars": 163
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Less4j",
+          "description": "Native Java implementation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2022-10-04T23:42:07Z",
+            "owner": "SomMeri",
+            "repo": "less4j",
+            "stars": 147
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JLessC",
+          "description": "Less compiler written completely in Java.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-06-20T16:30:06Z",
+            "owner": "i-net-software",
+            "repo": "jlessc",
+            "stars": 59
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lesscss",
+          "description": "Runs Less using Rhino, Nasshorn or node.js engine; 1.7.0 compliant.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2015-08-03T08:59:27Z",
+            "owner": "houbie",
+            "repo": "lesscss",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lesscss Gradle Plugin",
+          "description": "Gradle plugin based on Less.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Groovy",
+            "last_commit": "2017-12-27T09:31:37Z",
+            "owner": "houbie",
+            "repo": "lesscss-gradle-plugin",
+            "stars": 9
+          }
+        }
+      ],
+      "title": "Java"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Hayaky",
+          "description": "Hayaku is a bundle of useful scripts aiming for rapid front-end web development.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-06-24T11:47:18Z",
+            "owner": "hayaku",
+            "repo": "hayaku",
+            "stars": 966
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Grunt Contrib",
+          "description": "Compile Less files to CSS using Grunt.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-06-23T07:30:27Z",
+            "owner": "gruntjs",
+            "repo": "grunt-contrib-less",
+            "stars": 664
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vim Less",
+          "description": "This vim bundle adds syntax highlighting, indenting and autocompletion.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "VimL",
+            "last_commit": "2016-04-25T09:02:08Z",
+            "owner": "groenewege",
+            "repo": "vim-less",
+            "stars": 598
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Gulp Less",
+          "description": "Plugin for Gulp.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-06-20T16:51:24Z",
+            "owner": "gulp-community",
+            "repo": "gulp-less",
+            "stars": 558
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Less Sublime",
+          "description": "Syntax highlighting for Sublime Text.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Less",
+            "last_commit": "2023-05-17T15:15:26Z",
+            "owner": "danro",
+            "repo": "LESS-sublime",
+            "stars": 499
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SublimeOnSaveBuild",
+          "description": "Trigger a build the moment you save a file in Sublime Text 2. Works best with web projects that make use of Less, Compass and any other pre-processor or a makefile.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-09-06T04:48:10Z",
+            "owner": "alexnj",
+            "repo": "SublimeOnSaveBuild",
+            "stars": 233
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sublime Less2CSS",
+          "description": "Sublime Text 2 Plugin to compile Less files to css on save.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-10-19T07:03:24Z",
+            "owner": "timdouglas",
+            "repo": "sublime-less2css",
+            "stars": 200
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lesshint",
+          "description": "Tool to aid you in writing clean and consistent Less.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-04-22T18:46:57Z",
+            "owner": "lesshint",
+            "repo": "lesshint",
+            "stars": 117
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Emacs",
+          "description": "Emacs mode with support for compile-on-save.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Emacs Lisp",
+            "last_commit": "2026-04-22T12:27:47Z",
+            "owner": "purcell",
+            "repo": "less-css-mode",
+            "stars": 100
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Grunt Lint",
+          "description": "Lint your Less files using CSS Lint from Grunt.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CoffeeScript",
+            "last_commit": "2021-02-13T17:34:01Z",
+            "owner": "jgable",
+            "repo": "grunt-lesslint",
+            "stars": 75
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Less for Notepad++",
+          "description": "Syntax Highlighting for Notepad++.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2023-03-16T02:56:25Z",
+            "owner": "azrafe7",
+            "repo": "LESS-for-Notepad-plusplus",
+            "stars": 68
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CSS Less(ish)",
+          "description": "Sublime Text 2 & 3 plugin that implements a stripped down version of the functionality in css preprocessors (such as Less).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2015-02-03T06:54:36Z",
+            "owner": "kizza",
+            "repo": "CSS-Less-ish",
+            "stars": 48
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hyra Helper",
+          "description": "CakePHP plugin that converts your Less files to CSS using only PHP.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2015-04-08T15:08:36Z",
+            "owner": "Hyra",
+            "repo": "less",
+            "stars": 27
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Eclipse Transpiler Plugin",
+          "description": "Eclipse plugin to automatically transpile your files (Less, SASS, CoffeeScript, etc.).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2017-06-23T06:25:00Z",
+            "owner": "gossi",
+            "repo": "eclipse-transpiler-plugin",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Atom Linter",
+          "description": "Linter plugin in the Atom text editor.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2022-04-09T23:34:07Z",
+            "owner": "josa42",
+            "repo": "atom-linter-less",
+            "stars": 11
+          }
+        }
+      ],
+      "title": "GUIs, Editors and Plugins"
+    },
+    {
+      "description": "Your contributions are always welcome! Click Here to read the guidelines.\nBack to top",
+      "items": [],
+      "title": "Contributing"
+    },
+    {
+      "description": "To the extent possible under law, Lucas Bassetti has waived all copyright and related or neighboring rights to this work.\nBack to top",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:05:24.575Z",
+    "original_repository": "LucasBassetti/awesome-less",
+    "original_repository_sha": "ca13f688d5a8d115d8bbb52a6067b7054f5a3036",
+    "enhanced_repository": "enhansome/enhansome-less",
+    "enhanced_repository_description": null,
+    "title": "Awesome Less with stars"
+  }
+}
