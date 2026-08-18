@@ -16,10 +16,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-17T10:21:45Z",
+            "last_commit": "2026-08-18T11:55:06Z",
             "owner": "ant-design",
             "repo": "ant-design",
-            "stars": 99090
+            "stars": 99108
           }
         },
         {
@@ -787,7 +787,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T13:02:43.256Z",
+    "last_updated": "2026-08-18T13:04:29.802Z",
     "original_repository": "LucasBassetti/awesome-less",
     "original_repository_sha": "ca13f688d5a8d115d8bbb52a6067b7054f5a3036",
     "enhanced_repository": "enhansome/enhansome-less",
