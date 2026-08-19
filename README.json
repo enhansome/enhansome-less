@@ -1,12 +1,7 @@
 {
   "items": [
     {
-      "description": "Less is a open source dynamic style sheet language that can be compiled into Cascading Style Sheets (CSS) and run on the client side or server side. Designed by Alexis Sellier, Less is influenced by Sass and has influenced the newer \"SCSS\" syntax of Sass, which adapted its CSS-like block formatting syntax. Less provides the following mechanisms: variables, nesting, mixins, operators and functions; the main difference between Less and other CSS precompilers being that Less allows real-time compilation via Less by the browser. Font: Wikipedia\nBack to top",
-      "items": [],
-      "title": "About"
-    },
-    {
-      "description": "",
+      "description": "Back to top",
       "items": [
         {
           "node_type": "item",
@@ -15,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 34526884,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T11:55:06Z",
+            "last_commit": "2026-08-19T10:53:43Z",
             "owner": "ant-design",
             "repo": "ant-design",
-            "stars": 99108
+            "stars": 99117
           }
         },
         {
@@ -29,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 2454588,
             "language": "Ruby",
             "last_commit": "2022-02-10T11:29:39Z",
             "owner": "metaskills",
@@ -43,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 5696079,
             "language": "CSS",
             "last_commit": "2014-04-16T18:56:14Z",
             "owner": "firminoweb",
@@ -57,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 17268083,
             "language": "CSS",
             "last_commit": "2014-02-27T23:34:04Z",
             "owner": "bassjobsen",
@@ -71,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 301358198,
             "language": "HTML",
             "last_commit": "2021-05-21T09:34:21Z",
             "owner": "FezVrasta",
@@ -82,356 +82,371 @@
       "title": "UI/Theme Frameworks and Components"
     },
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Framework",
+              "description": "Less Framework is a CSS grid system for designing adaptive web sites. It contains 4 layouts and 3 sets of typography presets, all based on a single grid.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 1936729,
+                "language": "CSS",
+                "last_commit": "2016-11-27T10:49:25Z",
+                "owner": "jonikorpi",
+                "repo": "Less-Framework",
+                "stars": 696
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Bootstrap Grid Only",
+              "description": "Bootstrap's responsive grid and responsive utility classes only, without any extras. Lightweight yet still powerful. Style to taste.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 26524294,
+                "language": "CSS",
+                "last_commit": "2017-08-16T12:38:02Z",
+                "owner": "zirafa",
+                "repo": "bootstrap-grid-only",
+                "stars": 445
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Order.Less",
+              "description": "Baseline alignment, column grids and modular scales.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 14837986,
+                "language": "CSS",
+                "last_commit": "2017-08-09T09:28:22Z",
+                "owner": "chromice",
+                "repo": "order.less",
+                "stars": 21
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Grid System",
+              "description": "Super-easy to use, markup-independent grid system.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 23152283,
+                "language": "CSS",
+                "last_commit": "2015-10-07T20:50:52Z",
+                "owner": "thejspro",
+                "repo": "less-grid-system",
+                "stars": 8
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Less Zen Grid",
+              "description": "Implementation of Zen Grids in Less.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 15675924,
+                "language": "CSS",
+                "last_commit": "2014-09-08T21:59:48Z",
+                "owner": "bassjobsen",
+                "repo": "LESS-Zen-Grid",
+                "stars": 5
+              }
+            }
+          ],
+          "description": "Back to top",
+          "node_type": "group",
+          "title": "Grid"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "CSS and Media Query Strategies",
+              "description": "Using Less CSS to develop a media query driven solution for modern and legacy browsers.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 6715686,
+                "language": null,
+                "last_commit": "2012-11-16T09:43:18Z",
+                "owner": "buymeasoda",
+                "repo": "less-media-queries",
+                "stars": 17
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Media Queries Library",
+              "description": "Really simple media queries in Less.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 26426900,
+                "language": "CSS",
+                "last_commit": "2016-01-12T15:04:42Z",
+                "owner": "mrmlnc",
+                "repo": "less-mq",
+                "stars": 10
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Media Query to Type",
+              "description": "A method for creating an IE specific stylesheet that allows the content of media queries to become accessible to Internet Explorer 8 and below.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 10148296,
+                "language": "CSS",
+                "last_commit": "2014-01-09T21:30:17Z",
+                "owner": "himedlooff",
+                "repo": "media-query-to-type",
+                "stars": 10
+              }
+            }
+          ],
+          "description": "Back to top",
+          "node_type": "group",
+          "title": "Media Queries"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Animate Less",
+              "description": "Port of Dan Eden's Animate.css to Less.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 7277874,
+                "language": "CSS",
+                "last_commit": "2019-08-05T15:20:48Z",
+                "owner": "machito",
+                "repo": "animate.less",
+                "stars": 530
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Cube Less",
+              "description": "3D (animated) cube using only CSS (Less), originally used by LeanCloud (aka. AVOS Cloud).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 17163288,
+                "language": "Less",
+                "last_commit": "2026-07-07T13:18:44Z",
+                "owner": "sparanoid",
+                "repo": "cube.less",
+                "stars": 55
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Animate",
+              "description": "A library of CSS3 keyframe animations authored using Less.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 6783105,
+                "language": "HTML",
+                "last_commit": "2017-09-06T04:17:37Z",
+                "owner": "joshuapekera",
+                "repo": "animate",
+                "stars": 44
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Less Burguer",
+              "description": "Port of Sass Burger to Less.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 38721900,
+                "language": "JavaScript",
+                "last_commit": "2015-12-01T18:04:34Z",
+                "owner": "MarkRabey",
+                "repo": "less-burger",
+                "stars": 6
+              }
+            }
+          ],
+          "description": "Back to top",
+          "node_type": "group",
+          "title": "Animation"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Retina.js",
+              "description": "JavaScript, SCSS, Sass, Less, and Stylus helpers for rendering high-resolution image variants.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 3932983,
+                "language": "JavaScript",
+                "last_commit": "2026-04-14T05:58:04Z",
+                "owner": "strues",
+                "repo": "retinajs",
+                "stars": 4379
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Lesshat",
+              "description": "Smart mixins library.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 5284910,
+                "language": "JavaScript",
+                "last_commit": "2022-03-23T14:21:36Z",
+                "owner": "madebysource",
+                "repo": "lesshat",
+                "stars": 2170
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Preboot",
+              "description": "Collection of mixins and variables for writing better CSS.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1502338,
+                "language": "CSS",
+                "last_commit": "2016-01-20T20:45:01Z",
+                "owner": "mdo",
+                "repo": "preboot",
+                "stars": 1664
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Est",
+              "description": "Mixin library.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 10072815,
+                "language": "Less",
+                "last_commit": "2023-03-02T06:28:13Z",
+                "owner": "ecomfe",
+                "repo": "est",
+                "stars": 392
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Dynamic Stylesheet",
+              "description": "Set of useful mixins.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 2902113,
+                "language": "CSS",
+                "last_commit": "2015-01-15T16:13:37Z",
+                "owner": "mrkrupski",
+                "repo": "LESS-Dynamic-Stylesheet",
+                "stars": 96
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Shape",
+              "description": "Collection of mixins for various shapes.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 13455514,
+                "language": "CSS",
+                "last_commit": "2013-10-22T21:05:14Z",
+                "owner": "fahad19",
+                "repo": "shape.less",
+                "stars": 35
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Bidi",
+              "description": "Set of mixins for creating bi-directional styling.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 7851041,
+                "language": "CSS",
+                "last_commit": "2016-03-27T21:57:50Z",
+                "owner": "danielkatz",
+                "repo": "less-bidi",
+                "stars": 14
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Normalize",
+              "description": "Modularized famous normalize.css using Less.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 36530873,
+                "language": "CSS",
+                "last_commit": "2018-11-16T23:55:29Z",
+                "owner": "segundofdez",
+                "repo": "normalize.less",
+                "stars": 13
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Lessmore",
+              "description": "Mixins library. Cross-browser support for the CSS3 features and more.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 42413688,
+                "language": "CSS",
+                "last_commit": "2017-02-27T22:33:39Z",
+                "owner": "belyan",
+                "repo": "lessmore",
+                "stars": 6
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "TRRtoolbelt",
+              "description": "Mixins and functions for common actions.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 12903176,
+                "language": "CSS",
+                "last_commit": "2014-01-09T22:11:56Z",
+                "owner": "therebelrobot",
+                "repo": "tRRtoolbelt.less",
+                "stars": 2
+              }
+            }
+          ],
+          "description": "Back to top",
+          "node_type": "group",
+          "title": "Miscellaneous"
+        }
+      ],
       "title": "Libraries and Mixins"
     },
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Framework",
-          "description": "Less Framework is a CSS grid system for designing adaptive web sites. It contains 4 layouts and 3 sets of typography presets, all based on a single grid.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "CSS",
-            "last_commit": "2016-11-27T10:49:25Z",
-            "owner": "jonikorpi",
-            "repo": "Less-Framework",
-            "stars": 696
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Bootstrap Grid Only",
-          "description": "Bootstrap's responsive grid and responsive utility classes only, without any extras. Lightweight yet still powerful. Style to taste.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "CSS",
-            "last_commit": "2017-08-16T12:38:02Z",
-            "owner": "zirafa",
-            "repo": "bootstrap-grid-only",
-            "stars": 445
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Order.Less",
-          "description": "Baseline alignment, column grids and modular scales.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "CSS",
-            "last_commit": "2017-08-09T09:28:22Z",
-            "owner": "chromice",
-            "repo": "order.less",
-            "stars": 21
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Grid System",
-          "description": "Super-easy to use, markup-independent grid system.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "CSS",
-            "last_commit": "2015-10-07T20:50:52Z",
-            "owner": "thejspro",
-            "repo": "less-grid-system",
-            "stars": 8
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Less Zen Grid",
-          "description": "Implementation of Zen Grids in Less.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "CSS",
-            "last_commit": "2014-09-08T21:59:48Z",
-            "owner": "bassjobsen",
-            "repo": "LESS-Zen-Grid",
-            "stars": 5
-          }
-        }
-      ],
-      "title": "Grid"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "CSS and Media Query Strategies",
-          "description": "Using Less CSS to develop a media query driven solution for modern and legacy browsers.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2012-11-16T09:43:18Z",
-            "owner": "buymeasoda",
-            "repo": "less-media-queries",
-            "stars": 17
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Media Queries Library",
-          "description": "Really simple media queries in Less.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "CSS",
-            "last_commit": "2016-01-12T15:04:42Z",
-            "owner": "mrmlnc",
-            "repo": "less-mq",
-            "stars": 10
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Media Query to Type",
-          "description": "A method for creating an IE specific stylesheet that allows the content of media queries to become accessible to Internet Explorer 8 and below.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "CSS",
-            "last_commit": "2014-01-09T21:30:17Z",
-            "owner": "himedlooff",
-            "repo": "media-query-to-type",
-            "stars": 10
-          }
-        }
-      ],
-      "title": "Media Queries"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Animate Less",
-          "description": "Port of Dan Eden's Animate.css to Less.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "CSS",
-            "last_commit": "2019-08-05T15:20:48Z",
-            "owner": "machito",
-            "repo": "animate.less",
-            "stars": 530
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Cube Less",
-          "description": "3D (animated) cube using only CSS (Less), originally used by LeanCloud (aka. AVOS Cloud).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Less",
-            "last_commit": "2026-07-07T13:18:44Z",
-            "owner": "sparanoid",
-            "repo": "cube.less",
-            "stars": 55
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Animate",
-          "description": "A library of CSS3 keyframe animations authored using Less.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2017-09-06T04:17:37Z",
-            "owner": "joshuapekera",
-            "repo": "animate",
-            "stars": 44
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Less Burguer",
-          "description": "Port of Sass Burger to Less.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2015-12-01T18:04:34Z",
-            "owner": "MarkRabey",
-            "repo": "less-burger",
-            "stars": 6
-          }
-        }
-      ],
-      "title": "Animation"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Retina.js",
-          "description": "JavaScript, SCSS, Sass, Less, and Stylus helpers for rendering high-resolution image variants.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "JavaScript",
-            "last_commit": "2026-04-14T05:58:04Z",
-            "owner": "strues",
-            "repo": "retinajs",
-            "stars": 4379
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Lesshat",
-          "description": "Smart mixins library.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2022-03-23T14:21:36Z",
-            "owner": "madebysource",
-            "repo": "lesshat",
-            "stars": 2170
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Preboot",
-          "description": "Collection of mixins and variables for writing better CSS.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "CSS",
-            "last_commit": "2016-01-20T20:45:01Z",
-            "owner": "mdo",
-            "repo": "preboot",
-            "stars": 1664
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Est",
-          "description": "Mixin library.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Less",
-            "last_commit": "2023-03-02T06:28:13Z",
-            "owner": "ecomfe",
-            "repo": "est",
-            "stars": 392
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Dynamic Stylesheet",
-          "description": "Set of useful mixins.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "CSS",
-            "last_commit": "2015-01-15T16:13:37Z",
-            "owner": "mrkrupski",
-            "repo": "LESS-Dynamic-Stylesheet",
-            "stars": 96
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Shape",
-          "description": "Collection of mixins for various shapes.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "CSS",
-            "last_commit": "2013-10-22T21:05:14Z",
-            "owner": "fahad19",
-            "repo": "shape.less",
-            "stars": 35
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Bidi",
-          "description": "Set of mixins for creating bi-directional styling.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "CSS",
-            "last_commit": "2016-03-27T21:57:50Z",
-            "owner": "danielkatz",
-            "repo": "less-bidi",
-            "stars": 14
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Normalize",
-          "description": "Modularized famous normalize.css using Less.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "CSS",
-            "last_commit": "2018-11-16T23:55:29Z",
-            "owner": "segundofdez",
-            "repo": "normalize.less",
-            "stars": 13
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Lessmore",
-          "description": "Mixins library. Cross-browser support for the CSS3 features and more.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "CSS",
-            "last_commit": "2017-02-27T22:33:39Z",
-            "owner": "belyan",
-            "repo": "lessmore",
-            "stars": 6
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "TRRtoolbelt",
-          "description": "Mixins and functions for common actions.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "CSS",
-            "last_commit": "2014-01-09T22:11:56Z",
-            "owner": "therebelrobot",
-            "repo": "tRRtoolbelt.less",
-            "stars": 2
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Homeless",
-          "description": "Helpful functions.",
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "Lessley",
-          "description": "A jasmine like testing suite written in pure Less.",
-          "children": []
-        }
-      ],
-      "title": "Miscellaneous"
-    },
-    {
-      "description": "",
+      "description": "Back to top",
       "items": [
         {
           "node_type": "item",
@@ -440,6 +455,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 27131846,
             "language": null,
             "last_commit": "2016-10-10T15:07:58Z",
             "owner": "handshake",
@@ -454,6 +470,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 10676912,
             "language": null,
             "last_commit": "2014-06-06T23:29:55Z",
             "owner": "bitmap",
@@ -465,102 +482,110 @@
       "title": "Style Guides"
     },
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Less Engine",
+              "description": "Runs Less in the Rhino JVM-based JavaScript interpreter.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 327676,
+                "language": "JavaScript",
+                "last_commit": "2020-10-13T09:48:34Z",
+                "owner": "asual",
+                "repo": "lesscss-engine",
+                "stars": 219
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Less CSS Compiler for Java",
+              "description": "Runs Less in the Rhino JVM-based JavaScript interprete.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 3710690,
+                "language": "JavaScript",
+                "last_commit": "2018-10-22T12:48:00Z",
+                "owner": "marceloverdijk",
+                "repo": "lesscss-java",
+                "stars": 163
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Less4j",
+              "description": "Native Java implementation.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 4661516,
+                "language": "Java",
+                "last_commit": "2022-10-04T23:42:07Z",
+                "owner": "SomMeri",
+                "repo": "less4j",
+                "stars": 147
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "JLessC",
+              "description": "Less compiler written completely in Java.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 28186168,
+                "language": "Java",
+                "last_commit": "2026-06-20T16:30:06Z",
+                "owner": "i-net-software",
+                "repo": "jlessc",
+                "stars": 59
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Lesscss",
+              "description": "Runs Less using Rhino, Nasshorn or node.js engine; 1.7.0 compliant.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 10367311,
+                "language": "JavaScript",
+                "last_commit": "2015-08-03T08:59:27Z",
+                "owner": "houbie",
+                "repo": "lesscss",
+                "stars": 11
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Lesscss Gradle Plugin",
+              "description": "Gradle plugin based on Less.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 17644544,
+                "language": "Groovy",
+                "last_commit": "2017-12-27T09:31:37Z",
+                "owner": "houbie",
+                "repo": "lesscss-gradle-plugin",
+                "stars": 9
+              }
+            }
+          ],
+          "description": "Back to top",
+          "node_type": "group",
+          "title": "Java"
+        }
+      ],
       "title": "Ports of Less"
     },
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Less Engine",
-          "description": "Runs Less in the Rhino JVM-based JavaScript interpreter.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2020-10-13T09:48:34Z",
-            "owner": "asual",
-            "repo": "lesscss-engine",
-            "stars": 219
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Less CSS Compiler for Java",
-          "description": "Runs Less in the Rhino JVM-based JavaScript interprete.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "JavaScript",
-            "last_commit": "2018-10-22T12:48:00Z",
-            "owner": "marceloverdijk",
-            "repo": "lesscss-java",
-            "stars": 163
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Less4j",
-          "description": "Native Java implementation.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2022-10-04T23:42:07Z",
-            "owner": "SomMeri",
-            "repo": "less4j",
-            "stars": 147
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "JLessC",
-          "description": "Less compiler written completely in Java.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2026-06-20T16:30:06Z",
-            "owner": "i-net-software",
-            "repo": "jlessc",
-            "stars": 59
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Lesscss",
-          "description": "Runs Less using Rhino, Nasshorn or node.js engine; 1.7.0 compliant.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "JavaScript",
-            "last_commit": "2015-08-03T08:59:27Z",
-            "owner": "houbie",
-            "repo": "lesscss",
-            "stars": 11
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Lesscss Gradle Plugin",
-          "description": "Gradle plugin based on Less.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Groovy",
-            "last_commit": "2017-12-27T09:31:37Z",
-            "owner": "houbie",
-            "repo": "lesscss-gradle-plugin",
-            "stars": 9
-          }
-        }
-      ],
-      "title": "Java"
-    },
-    {
-      "description": "",
+      "description": "Back to top",
       "items": [
         {
           "node_type": "item",
@@ -569,6 +594,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 2789887,
             "language": "Python",
             "last_commit": "2019-06-24T11:47:18Z",
             "owner": "hayaku",
@@ -583,6 +609,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 5676089,
             "language": "JavaScript",
             "last_commit": "2026-06-23T07:30:27Z",
             "owner": "gruntjs",
@@ -597,6 +624,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1763463,
             "language": "VimL",
             "last_commit": "2016-04-25T09:02:08Z",
             "owner": "groenewege",
@@ -611,6 +639,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 11264371,
             "language": "JavaScript",
             "last_commit": "2021-06-20T16:51:24Z",
             "owner": "gulp-community",
@@ -625,6 +654,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 3194088,
             "language": "Less",
             "last_commit": "2023-05-17T15:15:26Z",
             "owner": "danro",
@@ -639,6 +669,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 2442402,
             "language": "JavaScript",
             "last_commit": "2018-09-06T04:48:10Z",
             "owner": "alexnj",
@@ -653,6 +684,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 5233440,
             "language": "Python",
             "last_commit": "2019-10-19T07:03:24Z",
             "owner": "timdouglas",
@@ -667,6 +699,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 33480727,
             "language": "JavaScript",
             "last_commit": "2022-04-22T18:46:57Z",
             "owner": "lesshint",
@@ -681,6 +714,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 2268746,
             "language": "Emacs Lisp",
             "last_commit": "2026-04-22T12:27:47Z",
             "owner": "purcell",
@@ -695,6 +729,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 10645549,
             "language": "CoffeeScript",
             "last_commit": "2021-02-13T17:34:01Z",
             "owner": "jgable",
@@ -709,6 +744,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 9821007,
             "language": "HTML",
             "last_commit": "2023-03-16T02:56:25Z",
             "owner": "azrafe7",
@@ -723,6 +759,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 2479699,
             "language": "Python",
             "last_commit": "2015-02-03T06:54:36Z",
             "owner": "kizza",
@@ -737,6 +774,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 2360189,
             "language": "PHP",
             "last_commit": "2015-04-08T15:08:36Z",
             "owner": "Hyra",
@@ -751,6 +789,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 15661712,
             "language": "Java",
             "last_commit": "2017-06-23T06:25:00Z",
             "owner": "gossi",
@@ -765,6 +804,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 23833077,
             "language": "JavaScript",
             "last_commit": "2022-04-09T23:34:07Z",
             "owner": "josa42",
@@ -774,21 +814,12 @@
         }
       ],
       "title": "GUIs, Editors and Plugins"
-    },
-    {
-      "description": "Your contributions are always welcome! Click Here to read the guidelines.\nBack to top",
-      "items": [],
-      "title": "Contributing"
-    },
-    {
-      "description": "To the extent possible under law, Lucas Bassetti has waived all copyright and related or neighboring rights to this work.\nBack to top",
-      "items": [],
-      "title": "License"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T13:04:29.802Z",
+    "last_updated": "2026-08-19T12:36:33.714Z",
     "original_repository": "LucasBassetti/awesome-less",
+    "original_repository_id": 76553096,
     "original_repository_sha": "ca13f688d5a8d115d8bbb52a6067b7054f5a3036",
     "enhanced_repository": "enhansome/enhansome-less",
     "enhanced_repository_description": null,
