@@ -12,10 +12,10 @@
             "archived": false,
             "id": 34526884,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T10:53:43Z",
+            "last_commit": "2026-08-20T09:46:36Z",
             "owner": "ant-design",
             "repo": "ant-design",
-            "stars": 99117
+            "stars": 99126
           }
         },
         {
@@ -314,7 +314,7 @@
                 "last_commit": "2022-03-23T14:21:36Z",
                 "owner": "madebysource",
                 "repo": "lesshat",
-                "stars": 2170
+                "stars": 2169
               }
             },
             {
@@ -817,7 +817,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T13:05:09.877Z",
+    "last_updated": "2026-08-20T13:07:44.181Z",
     "original_repository": "LucasBassetti/awesome-less",
     "original_repository_id": 76553096,
     "original_repository_sha": "ca13f688d5a8d115d8bbb52a6067b7054f5a3036",
