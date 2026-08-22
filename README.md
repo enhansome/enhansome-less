@@ -53,7 +53,7 @@ Less is a open source dynamic style sheet language that can be compiled into Cas
 
 ## UI/Theme Frameworks and Components
 
-* [Ant Design](https://github.com/ant-design/ant-design/) ⭐ 99,136 | 🐛 1,079 | 🌐 TypeScript | 📅 2026-08-21 - 	An enterprise-class UI design language and React-based implementation.
+* [Ant Design](https://github.com/ant-design/ant-design/) ⭐ 99,144 | 🐛 1,078 | 🌐 TypeScript | 📅 2026-08-21 - 	An enterprise-class UI design language and React-based implementation.
 * [Less Rails](https://github.com/metaskills/less-rails) ⭐ 339 | 🐛 11 | 🌐 Ruby | 📅 2022-02-10 - Less for Rails.
 * [CSSHórus](https://github.com/firminoweb/csshorus) ⭐ 69 | 🐛 0 | 🌐 CSS | 📅 2014-04-16 - 	Library for development of responsive and mobile websites.
 * [Bootstrap a11y theme](https://github.com/bassjobsen/bootstrap-a11y-theme) ⭐ 32 | 🐛 1 | 🌐 CSS | 📅 2014-02-27 - Makes web accessibility easier for Bootstrap developers.
@@ -328,4 +328,4 @@ To the extent possible under law, [Lucas Bassetti](http://lucasbassetti.com.br) 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
