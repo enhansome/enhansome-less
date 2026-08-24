@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "Back to top",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -15,7 +15,7 @@
             "last_commit": "2026-08-24T12:43:50Z",
             "owner": "ant-design",
             "repo": "ant-design",
-            "stars": 99170
+            "stars": 99173
           }
         },
         {
@@ -162,7 +162,7 @@
               }
             }
           ],
-          "description": "Back to top",
+          "description": null,
           "node_type": "group",
           "title": "Grid"
         },
@@ -214,9 +214,31 @@
               }
             }
           ],
-          "description": "Back to top",
+          "description": null,
           "node_type": "group",
           "title": "Media Queries"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Open Color",
+              "description": "Open color is a color scheme for UI design. Available in CSS, SCSS, Less, Stylus, Adobe library, Photoshop/Illustrator swatches and Sketch palette.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 65090756,
+                "language": "Handlebars",
+                "last_commit": "2023-12-10T16:29:40Z",
+                "owner": "yeun",
+                "repo": "open-color",
+                "stars": 5557
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Color"
         },
         {
           "children": [
@@ -281,7 +303,7 @@
               }
             }
           ],
-          "description": "Back to top",
+          "description": null,
           "node_type": "group",
           "title": "Animation"
         },
@@ -438,7 +460,7 @@
               }
             }
           ],
-          "description": "Back to top",
+          "description": null,
           "node_type": "group",
           "title": "Miscellaneous"
         }
@@ -446,7 +468,7 @@
       "title": "Libraries and Mixins"
     },
     {
-      "description": "Back to top",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -577,15 +599,103 @@
               }
             }
           ],
-          "description": "Back to top",
+          "description": null,
           "node_type": "group",
           "title": "Java"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ILess",
+              "description": "PHP port written in Javascript.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 15798678,
+                "language": "PHP",
+                "last_commit": "2019-04-29T09:58:47Z",
+                "owner": "mishal",
+                "repo": "iless",
+                "stars": 47
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "PHP"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Pyhton Compiler",
+              "description": "Compiler written in Python.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 3291035,
+                "language": "Less",
+                "last_commit": "2026-07-30T12:22:21Z",
+                "owner": "lesscpy",
+                "repo": "lesscpy",
+                "stars": 144
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Python"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Ruby Compiler",
+              "description": "Less in Ruby's V8 Engine.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 835652,
+                "language": "Ruby",
+                "last_commit": "2017-04-10T22:28:02Z",
+                "owner": "cowboyd",
+                "repo": "less.rb",
+                "stars": 118
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Ruby"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Go Compiler",
+              "description": "Runs Less inside embedded Javascript engine.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 47600423,
+                "language": "JavaScript",
+                "last_commit": "2017-08-21T07:35:37Z",
+                "owner": "kib357",
+                "repo": "less-go",
+                "stars": 17
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Go"
         }
       ],
       "title": "Ports of Less"
     },
     {
-      "description": "Back to top",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -814,10 +924,52 @@
         }
       ],
       "title": "GUIs, Editors and Plugins"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ILess",
+          "description": "Live demo of ILess PHP compiler.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 15798678,
+            "language": "PHP",
+            "last_commit": "2019-04-29T09:58:47Z",
+            "owner": "mishal",
+            "repo": "iless",
+            "stars": 47
+          }
+        }
+      ],
+      "title": "Online Less Compilers"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Contributing to Less",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 527644,
+            "language": "JavaScript",
+            "last_commit": "2026-08-13T22:21:40Z",
+            "owner": "less",
+            "repo": "less.js",
+            "stars": 17028
+          }
+        }
+      ],
+      "title": "Community"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T13:09:19.705Z",
+    "last_updated": "2026-08-24T14:47:31.767Z",
     "original_repository": "LucasBassetti/awesome-less",
     "original_repository_id": 76553096,
     "original_repository_sha": "ca13f688d5a8d115d8bbb52a6067b7054f5a3036",

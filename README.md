@@ -53,7 +53,7 @@ Less is a open source dynamic style sheet language that can be compiled into Cas
 
 ## UI/Theme Frameworks and Components
 
-* [Ant Design](https://github.com/ant-design/ant-design/) ⭐ 99,170 | 🐛 1,087 | 🌐 TypeScript | 📅 2026-08-24 - 	An enterprise-class UI design language and React-based implementation.
+* [Ant Design](https://github.com/ant-design/ant-design/) ⭐ 99,173 | 🐛 1,087 | 🌐 TypeScript | 📅 2026-08-24 - 	An enterprise-class UI design language and React-based implementation.
 * [Less Rails](https://github.com/metaskills/less-rails) ⭐ 339 | 🐛 11 | 🌐 Ruby | 📅 2022-02-10 - Less for Rails.
 * [CSSHórus](https://github.com/firminoweb/csshorus) ⭐ 69 | 🐛 0 | 🌐 CSS | 📅 2014-04-16 - 	Library for development of responsive and mobile websites.
 * [Bootstrap a11y theme](https://github.com/bassjobsen/bootstrap-a11y-theme) ⭐ 32 | 🐛 1 | 🌐 CSS | 📅 2014-02-27 - Makes web accessibility easier for Bootstrap developers.
@@ -96,9 +96,9 @@ Less is a open source dynamic style sheet language that can be compiled into Cas
 
 ### Color
 
+* [Open Color](https://github.com/yeun/open-color) ⭐ 5,557 | 🐛 26 | 🌐 Handlebars | 📅 2023-12-10 - Open color is a color scheme for UI design. Available in CSS, SCSS, Less, Stylus, Adobe library, Photoshop/Illustrator swatches and Sketch palette.
 * [Brand Colors](http://brand-colors.com/) - 1100+ collection of popular brand colors available in Sass, Less, Stylus and CSS.
 * [More-Colors](http://jasonrobb.github.io/More-Colors.less/) - Variables for easier color manipulation while you design in the browser.
-* [Open Color](https://github.com/yeun/open-color) ⭐ 5,557 | 🐛 26 | 🌐 Handlebars | 📅 2023-12-10 - Open color is a color scheme for UI design. Available in CSS, SCSS, Less, Stylus, Adobe library, Photoshop/Illustrator swatches and Sketch palette.
 
 **[Back to top](#contents)**
 
@@ -221,9 +221,9 @@ Less is a open source dynamic style sheet language that can be compiled into Cas
 
 ## Online Less Compilers
 
+* [ILess](http://demo-iless.rhcloud.com/) - Live demo of [ILess](https://github.com/mishal/iless) ⭐ 47 | 🐛 5 | 🌐 PHP | 📅 2019-04-29 PHP compiler.
 * [BeautifyTools Less Compiler](http://beautifytools.com/less-compiler.php) - Online Less compiler with optional formatting and minification at [BeautifyTools](http://beautifytools.com/).
 * [EstFiddle](http://ecomfe.github.io/est/fiddle/) - Online Less compiler providing live demo for Less and est. Allowing users to switch among all versions of Less after 1.4.0 with optional est/Autoprefixer functionalities.
-* [ILess](http://demo-iless.rhcloud.com/) - Live demo of [ILess](https://github.com/mishal/iless) ⭐ 47 | 🐛 5 | 🌐 PHP | 📅 2019-04-29 PHP compiler.
 * [Leafo](http://leafo.net/lessphp/editor.html) - [Lessphp](http://leafo.net/lessphp/) live demo.
 * [Less2CSS](http://less2css.org/) - Online Integrated Development Environment (IDE) that is hosted in a browser allowing users to edit and compile Less to CSS in real-time.
 * [LessPHP](http://lessphp.gpeasy.com/demo) - [Less.php](http://lessphp.gpeasy.com/) live demo.
