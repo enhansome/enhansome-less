@@ -12,10 +12,10 @@
             "archived": false,
             "id": 34526884,
             "language": "TypeScript",
-            "last_commit": "2026-08-23T00:54:57Z",
+            "last_commit": "2026-08-24T12:43:50Z",
             "owner": "ant-design",
             "repo": "ant-design",
-            "stars": 99149
+            "stars": 99170
           }
         },
         {
@@ -817,7 +817,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T12:58:28.342Z",
+    "last_updated": "2026-08-24T13:09:19.705Z",
     "original_repository": "LucasBassetti/awesome-less",
     "original_repository_id": 76553096,
     "original_repository_sha": "ca13f688d5a8d115d8bbb52a6067b7054f5a3036",
