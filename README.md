@@ -47,13 +47,13 @@ Less is a open source dynamic style sheet language that can be compiled into Cas
 * [Getting Started with Less](https://scotch.io/tutorials/getting-started-with-less)
 * [Learn in 10 Minutes](http://tutorialzine.com/2015/07/learn-less-in-10-minutes-or-less/)
 * [Official Guide](http://lesscss.org/)
-* [Official Repository](https://github.com/less/less.js) ⭐ 17,029 | 🐛 181 | 🌐 JavaScript | 📅 2026-08-13
+* [Official Repository](https://github.com/less/less.js) ⭐ 17,029 | 🐛 182 | 🌐 JavaScript | 📅 2026-08-13
 
 **[Back to top](#contents)**
 
 ## UI/Theme Frameworks and Components
 
-* [Ant Design](https://github.com/ant-design/ant-design/) ⭐ 99,202 | 🐛 1,096 | 🌐 TypeScript | 📅 2026-08-26 - 	An enterprise-class UI design language and React-based implementation.
+* [Ant Design](https://github.com/ant-design/ant-design/) ⭐ 99,220 | 🐛 1,094 | 🌐 TypeScript | 📅 2026-08-27 - 	An enterprise-class UI design language and React-based implementation.
 * [Less Rails](https://github.com/metaskills/less-rails) ⭐ 339 | 🐛 11 | 🌐 Ruby | 📅 2022-02-10 - Less for Rails.
 * [CSSHórus](https://github.com/firminoweb/csshorus) ⭐ 69 | 🐛 0 | 🌐 CSS | 📅 2014-04-16 - 	Library for development of responsive and mobile websites.
 * [Bootstrap a11y theme](https://github.com/bassjobsen/bootstrap-a11y-theme) ⭐ 32 | 🐛 1 | 🌐 CSS | 📅 2014-02-27 - Makes web accessibility easier for Bootstrap developers.
@@ -96,7 +96,7 @@ Less is a open source dynamic style sheet language that can be compiled into Cas
 
 ### Color
 
-* [Open Color](https://github.com/yeun/open-color) ⭐ 5,559 | 🐛 26 | 🌐 Handlebars | 📅 2023-12-10 - Open color is a color scheme for UI design. Available in CSS, SCSS, Less, Stylus, Adobe library, Photoshop/Illustrator swatches and Sketch palette.
+* [Open Color](https://github.com/yeun/open-color) ⭐ 5,560 | 🐛 26 | 🌐 Handlebars | 📅 2023-12-10 - Open color is a color scheme for UI design. Available in CSS, SCSS, Less, Stylus, Adobe library, Photoshop/Illustrator swatches and Sketch palette.
 * [Brand Colors](http://brand-colors.com/) - 1100+ collection of popular brand colors available in Sass, Less, Stylus and CSS.
 * [More-Colors](http://jasonrobb.github.io/More-Colors.less/) - Variables for easier color manipulation while you design in the browser.
 
@@ -303,7 +303,7 @@ Less is a open source dynamic style sheet language that can be compiled into Cas
 
 ## Community
 
-* [Contributing to Less](https://github.com/less/less.js/blob/master/CONTRIBUTING.md) ⭐ 17,029 | 🐛 181 | 🌐 JavaScript | 📅 2026-08-13
+* [Contributing to Less](https://github.com/less/less.js/blob/master/CONTRIBUTING.md) ⭐ 17,029 | 🐛 182 | 🌐 JavaScript | 📅 2026-08-13
 * [Freenode](http://webchat.freenode.net/?randomnick=1\&channels=%23%23lesscss)
 * [Medium](https://medium.com/search?q=less%20css)
 * [Quora](https://www.quora.com/topic/LESS-stylesheet-language)
@@ -328,4 +328,4 @@ To the extent possible under law, [Lucas Bassetti](http://lucasbassetti.com.br) 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._
