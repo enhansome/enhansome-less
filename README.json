@@ -12,10 +12,10 @@
             "archived": false,
             "id": 34526884,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T11:44:37Z",
+            "last_commit": "2026-08-27T21:25:35Z",
             "owner": "ant-design",
             "repo": "ant-design",
-            "stars": 99220
+            "stars": 99224
           }
         },
         {
@@ -969,7 +969,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:48:48.864Z",
+    "last_updated": "2026-08-27T22:12:40.885Z",
     "original_repository_info": {
       "archived": false,
       "id": 76553096,
