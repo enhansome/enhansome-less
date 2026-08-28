@@ -12,11 +12,12 @@
             "archived": false,
             "id": 34526884,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T21:25:35Z",
+            "last_commit": "2026-08-28T15:21:33Z",
             "owner": "ant-design",
             "repo": "ant-design",
-            "stars": 99224
-          }
+            "stars": 99245
+          },
+          "first_seen": "2026-08-28T22:14:05.376Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "metaskills",
             "repo": "less-rails",
             "stars": 339
-          }
+          },
+          "first_seen": "2026-08-28T22:14:05.376Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "firminoweb",
             "repo": "csshorus",
             "stars": 69
-          }
+          },
+          "first_seen": "2026-08-28T22:14:05.376Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "bassjobsen",
             "repo": "bootstrap-a11y-theme",
             "stars": 32
-          }
+          },
+          "first_seen": "2026-08-28T22:14:05.376Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "FezVrasta",
             "repo": "bootstrap-material-design",
             "stars": 25
-          }
+          },
+          "first_seen": "2026-08-28T22:14:05.376Z"
         }
       ],
       "title": "UI/Theme Frameworks and Components"
@@ -99,7 +104,8 @@
                 "owner": "jonikorpi",
                 "repo": "Less-Framework",
                 "stars": 696
-              }
+              },
+              "first_seen": "2026-08-28T22:14:05.376Z"
             },
             {
               "node_type": "item",
@@ -114,7 +120,8 @@
                 "owner": "zirafa",
                 "repo": "bootstrap-grid-only",
                 "stars": 445
-              }
+              },
+              "first_seen": "2026-08-28T22:14:05.376Z"
             },
             {
               "node_type": "item",
@@ -129,7 +136,8 @@
                 "owner": "chromice",
                 "repo": "order.less",
                 "stars": 21
-              }
+              },
+              "first_seen": "2026-08-28T22:14:05.376Z"
             },
             {
               "node_type": "item",
@@ -144,7 +152,8 @@
                 "owner": "thejspro",
                 "repo": "less-grid-system",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T22:14:05.376Z"
             },
             {
               "node_type": "item",
@@ -159,7 +168,8 @@
                 "owner": "bassjobsen",
                 "repo": "LESS-Zen-Grid",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T22:14:05.376Z"
             }
           ],
           "description": null,
@@ -181,7 +191,8 @@
                 "owner": "buymeasoda",
                 "repo": "less-media-queries",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-28T22:14:05.376Z"
             },
             {
               "node_type": "item",
@@ -196,7 +207,8 @@
                 "owner": "mrmlnc",
                 "repo": "less-mq",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-28T22:14:05.376Z"
             },
             {
               "node_type": "item",
@@ -211,7 +223,8 @@
                 "owner": "himedlooff",
                 "repo": "media-query-to-type",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-28T22:14:05.376Z"
             }
           ],
           "description": null,
@@ -232,8 +245,9 @@
                 "last_commit": "2023-12-10T16:29:40Z",
                 "owner": "yeun",
                 "repo": "open-color",
-                "stars": 5560
-              }
+                "stars": 5559
+              },
+              "first_seen": "2026-08-28T22:14:05.376Z"
             }
           ],
           "description": null,
@@ -255,7 +269,8 @@
                 "owner": "machito",
                 "repo": "animate.less",
                 "stars": 530
-              }
+              },
+              "first_seen": "2026-08-28T22:14:05.376Z"
             },
             {
               "node_type": "item",
@@ -270,7 +285,8 @@
                 "owner": "sparanoid",
                 "repo": "cube.less",
                 "stars": 55
-              }
+              },
+              "first_seen": "2026-08-28T22:14:05.376Z"
             },
             {
               "node_type": "item",
@@ -285,7 +301,8 @@
                 "owner": "joshuapekera",
                 "repo": "animate",
                 "stars": 44
-              }
+              },
+              "first_seen": "2026-08-28T22:14:05.376Z"
             },
             {
               "node_type": "item",
@@ -300,7 +317,8 @@
                 "owner": "MarkRabey",
                 "repo": "less-burger",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T22:14:05.376Z"
             }
           ],
           "description": null,
@@ -322,7 +340,8 @@
                 "owner": "strues",
                 "repo": "retinajs",
                 "stars": 4379
-              }
+              },
+              "first_seen": "2026-08-28T22:14:05.376Z"
             },
             {
               "node_type": "item",
@@ -337,7 +356,8 @@
                 "owner": "madebysource",
                 "repo": "lesshat",
                 "stars": 2169
-              }
+              },
+              "first_seen": "2026-08-28T22:14:05.376Z"
             },
             {
               "node_type": "item",
@@ -351,8 +371,9 @@
                 "last_commit": "2016-01-20T20:45:01Z",
                 "owner": "mdo",
                 "repo": "preboot",
-                "stars": 1664
-              }
+                "stars": 1663
+              },
+              "first_seen": "2026-08-28T22:14:05.376Z"
             },
             {
               "node_type": "item",
@@ -367,7 +388,8 @@
                 "owner": "ecomfe",
                 "repo": "est",
                 "stars": 392
-              }
+              },
+              "first_seen": "2026-08-28T22:14:05.376Z"
             },
             {
               "node_type": "item",
@@ -382,7 +404,8 @@
                 "owner": "mrkrupski",
                 "repo": "LESS-Dynamic-Stylesheet",
                 "stars": 96
-              }
+              },
+              "first_seen": "2026-08-28T22:14:05.376Z"
             },
             {
               "node_type": "item",
@@ -397,7 +420,8 @@
                 "owner": "fahad19",
                 "repo": "shape.less",
                 "stars": 35
-              }
+              },
+              "first_seen": "2026-08-28T22:14:05.376Z"
             },
             {
               "node_type": "item",
@@ -412,7 +436,8 @@
                 "owner": "danielkatz",
                 "repo": "less-bidi",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-28T22:14:05.376Z"
             },
             {
               "node_type": "item",
@@ -427,7 +452,8 @@
                 "owner": "segundofdez",
                 "repo": "normalize.less",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-28T22:14:05.376Z"
             },
             {
               "node_type": "item",
@@ -442,7 +468,8 @@
                 "owner": "belyan",
                 "repo": "lessmore",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T22:14:05.376Z"
             },
             {
               "node_type": "item",
@@ -457,7 +484,8 @@
                 "owner": "therebelrobot",
                 "repo": "tRRtoolbelt.less",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T22:14:05.376Z"
             }
           ],
           "description": null,
@@ -483,7 +511,8 @@
             "owner": "handshake",
             "repo": "less-style-guide",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T22:14:05.376Z"
         },
         {
           "node_type": "item",
@@ -498,7 +527,8 @@
             "owner": "bitmap",
             "repo": "less-styleguide",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T22:14:05.376Z"
         }
       ],
       "title": "Style Guides"
@@ -521,7 +551,8 @@
                 "owner": "asual",
                 "repo": "lesscss-engine",
                 "stars": 219
-              }
+              },
+              "first_seen": "2026-08-28T22:14:05.376Z"
             },
             {
               "node_type": "item",
@@ -536,7 +567,8 @@
                 "owner": "marceloverdijk",
                 "repo": "lesscss-java",
                 "stars": 163
-              }
+              },
+              "first_seen": "2026-08-28T22:14:05.376Z"
             },
             {
               "node_type": "item",
@@ -551,7 +583,8 @@
                 "owner": "SomMeri",
                 "repo": "less4j",
                 "stars": 147
-              }
+              },
+              "first_seen": "2026-08-28T22:14:05.376Z"
             },
             {
               "node_type": "item",
@@ -566,7 +599,8 @@
                 "owner": "i-net-software",
                 "repo": "jlessc",
                 "stars": 59
-              }
+              },
+              "first_seen": "2026-08-28T22:14:05.376Z"
             },
             {
               "node_type": "item",
@@ -581,7 +615,8 @@
                 "owner": "houbie",
                 "repo": "lesscss",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-28T22:14:05.376Z"
             },
             {
               "node_type": "item",
@@ -596,7 +631,8 @@
                 "owner": "houbie",
                 "repo": "lesscss-gradle-plugin",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T22:14:05.376Z"
             }
           ],
           "description": null,
@@ -618,7 +654,8 @@
                 "owner": "mishal",
                 "repo": "iless",
                 "stars": 47
-              }
+              },
+              "first_seen": "2026-08-28T22:14:05.376Z"
             }
           ],
           "description": null,
@@ -640,7 +677,8 @@
                 "owner": "lesscpy",
                 "repo": "lesscpy",
                 "stars": 144
-              }
+              },
+              "first_seen": "2026-08-28T22:14:05.376Z"
             }
           ],
           "description": null,
@@ -662,7 +700,8 @@
                 "owner": "cowboyd",
                 "repo": "less.rb",
                 "stars": 118
-              }
+              },
+              "first_seen": "2026-08-28T22:14:05.376Z"
             }
           ],
           "description": null,
@@ -684,7 +723,8 @@
                 "owner": "kib357",
                 "repo": "less-go",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-28T22:14:05.376Z"
             }
           ],
           "description": null,
@@ -710,7 +750,8 @@
             "owner": "hayaku",
             "repo": "hayaku",
             "stars": 964
-          }
+          },
+          "first_seen": "2026-08-28T22:14:05.376Z"
         },
         {
           "node_type": "item",
@@ -725,7 +766,8 @@
             "owner": "gruntjs",
             "repo": "grunt-contrib-less",
             "stars": 664
-          }
+          },
+          "first_seen": "2026-08-28T22:14:05.376Z"
         },
         {
           "node_type": "item",
@@ -740,7 +782,8 @@
             "owner": "groenewege",
             "repo": "vim-less",
             "stars": 598
-          }
+          },
+          "first_seen": "2026-08-28T22:14:05.376Z"
         },
         {
           "node_type": "item",
@@ -755,7 +798,8 @@
             "owner": "gulp-community",
             "repo": "gulp-less",
             "stars": 558
-          }
+          },
+          "first_seen": "2026-08-28T22:14:05.376Z"
         },
         {
           "node_type": "item",
@@ -770,7 +814,8 @@
             "owner": "danro",
             "repo": "LESS-sublime",
             "stars": 499
-          }
+          },
+          "first_seen": "2026-08-28T22:14:05.376Z"
         },
         {
           "node_type": "item",
@@ -785,7 +830,8 @@
             "owner": "alexnj",
             "repo": "SublimeOnSaveBuild",
             "stars": 233
-          }
+          },
+          "first_seen": "2026-08-28T22:14:05.376Z"
         },
         {
           "node_type": "item",
@@ -800,7 +846,8 @@
             "owner": "timdouglas",
             "repo": "sublime-less2css",
             "stars": 199
-          }
+          },
+          "first_seen": "2026-08-28T22:14:05.376Z"
         },
         {
           "node_type": "item",
@@ -815,7 +862,8 @@
             "owner": "lesshint",
             "repo": "lesshint",
             "stars": 117
-          }
+          },
+          "first_seen": "2026-08-28T22:14:05.376Z"
         },
         {
           "node_type": "item",
@@ -830,7 +878,8 @@
             "owner": "purcell",
             "repo": "less-css-mode",
             "stars": 100
-          }
+          },
+          "first_seen": "2026-08-28T22:14:05.376Z"
         },
         {
           "node_type": "item",
@@ -845,7 +894,8 @@
             "owner": "jgable",
             "repo": "grunt-lesslint",
             "stars": 75
-          }
+          },
+          "first_seen": "2026-08-28T22:14:05.376Z"
         },
         {
           "node_type": "item",
@@ -860,7 +910,8 @@
             "owner": "azrafe7",
             "repo": "LESS-for-Notepad-plusplus",
             "stars": 68
-          }
+          },
+          "first_seen": "2026-08-28T22:14:05.376Z"
         },
         {
           "node_type": "item",
@@ -875,7 +926,8 @@
             "owner": "kizza",
             "repo": "CSS-Less-ish",
             "stars": 48
-          }
+          },
+          "first_seen": "2026-08-28T22:14:05.376Z"
         },
         {
           "node_type": "item",
@@ -890,7 +942,8 @@
             "owner": "Hyra",
             "repo": "less",
             "stars": 27
-          }
+          },
+          "first_seen": "2026-08-28T22:14:05.376Z"
         },
         {
           "node_type": "item",
@@ -905,7 +958,8 @@
             "owner": "gossi",
             "repo": "eclipse-transpiler-plugin",
             "stars": 20
-          }
+          },
+          "first_seen": "2026-08-28T22:14:05.376Z"
         },
         {
           "node_type": "item",
@@ -920,7 +974,8 @@
             "owner": "josa42",
             "repo": "atom-linter-less",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T22:14:05.376Z"
         }
       ],
       "title": "GUIs, Editors and Plugins"
@@ -941,7 +996,8 @@
             "owner": "mishal",
             "repo": "iless",
             "stars": 47
-          }
+          },
+          "first_seen": "2026-08-28T22:14:05.376Z"
         }
       ],
       "title": "Online Less Compilers"
@@ -962,14 +1018,15 @@
             "owner": "less",
             "repo": "less.js",
             "stars": 17029
-          }
+          },
+          "first_seen": "2026-08-28T22:14:05.376Z"
         }
       ],
       "title": "Community"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T22:12:40.885Z",
+    "last_updated": "2026-08-28T22:14:05.376Z",
     "original_repository_info": {
       "archived": false,
       "id": 76553096,
