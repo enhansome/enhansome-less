@@ -53,7 +53,7 @@ Less is a open source dynamic style sheet language that can be compiled into Cas
 
 ## UI/Theme Frameworks and Components
 
-* [Ant Design](https://github.com/ant-design/ant-design/) ⭐ 99,257 | 🐛 1,105 | 🌐 TypeScript | 📅 2026-08-28 - 	An enterprise-class UI design language and React-based implementation.
+* [Ant Design](https://github.com/ant-design/ant-design/) ⭐ 99,269 | 🐛 1,109 | 🌐 TypeScript | 📅 2026-08-29 - 	An enterprise-class UI design language and React-based implementation.
 * [Less Rails](https://github.com/metaskills/less-rails) ⭐ 339 | 🐛 11 | 🌐 Ruby | 📅 2022-02-10 - Less for Rails.
 * [CSSHórus](https://github.com/firminoweb/csshorus) ⭐ 69 | 🐛 0 | 🌐 CSS | 📅 2014-04-16 - 	Library for development of responsive and mobile websites.
 * [Bootstrap a11y theme](https://github.com/bassjobsen/bootstrap-a11y-theme) ⭐ 32 | 🐛 1 | 🌐 CSS | 📅 2014-02-27 - Makes web accessibility easier for Bootstrap developers.
@@ -121,7 +121,7 @@ Less is a open source dynamic style sheet language that can be compiled into Cas
 * [Dynamic Stylesheet](https://github.com/mrkrupski/LESS-Dynamic-Stylesheet) ⭐ 96 | 🐛 0 | 🌐 CSS | 📅 2015-01-15 - Set of useful mixins.
 * [Shape](https://github.com/fahad19/shape.less) ⭐ 35 | 🐛 1 | 🌐 CSS | 📅 2013-10-22 - Collection of mixins for various shapes.
 * [Bidi](https://github.com/danielkatz/less-bidi) ⭐ 14 | 🐛 0 | 🌐 CSS | 📅 2016-03-27 - Set of mixins for creating bi-directional styling.
-* [Normalize](https://github.com/segundofdez/normalize.less) ⭐ 13 | 🐛 0 | 🌐 CSS | 📅 2018-11-16 - 	Modularized famous [normalize.css](https://github.com/necolas/normalize.css/) ⭐ 53,515 | 🐛 75 | 🌐 CSS | 📅 2024-06-12 using Less.
+* [Normalize](https://github.com/segundofdez/normalize.less) ⭐ 13 | 🐛 0 | 🌐 CSS | 📅 2018-11-16 - 	Modularized famous [normalize.css](https://github.com/necolas/normalize.css/) ⭐ 53,516 | 🐛 75 | 🌐 CSS | 📅 2024-06-12 using Less.
 * [Lessmore](https://github.com/belyan/lessmore) ⭐ 6 | 🐛 0 | 🌐 CSS | 📅 2017-02-27 - 	Mixins library. Cross-browser support for the CSS3 features and more.
 * [TRRtoolbelt](https://github.com/therebelrobot/tRRtoolbelt.less) ⭐ 2 | 🐛 0 | 🌐 CSS | 📅 2014-01-09 - Mixins and functions for common actions.
 * [3L](http://mateuszkocz.github.io/3l/) - Mixins library.
@@ -151,7 +151,7 @@ Less is a open source dynamic style sheet language that can be compiled into Cas
 * [Less Engine](https://github.com/Asual/lesscss-engine) ⭐ 219 | 🐛 22 | 🌐 JavaScript | 📅 2020-10-13 - Runs Less in the Rhino JVM-based JavaScript interpreter.
 * [Less CSS Compiler for Java](https://github.com/marceloverdijk/lesscss-java) ⚠️ Archived - Runs Less in the Rhino JVM-based JavaScript interprete.
 * [Less4j](https://github.com/SomMeri/less4j) ⭐ 147 | 🐛 46 | 🌐 Java | 📅 2022-10-04 - Native Java implementation.
-* [JLessC](https://github.com/i-net-software/jlessc) ⭐ 59 | 🐛 3 | 🌐 Java | 📅 2026-06-20 - Less compiler written completely in Java.
+* [JLessC](https://github.com/i-net-software/jlessc) ⭐ 60 | 🐛 3 | 🌐 Java | 📅 2026-06-20 - Less compiler written completely in Java.
 * [Lesscss](https://github.com/houbie/lesscss) ⚠️ Archived - Runs Less using Rhino, Nasshorn or node.js engine; 1.7.0 compliant.
 * [Lesscss Gradle Plugin](https://github.com/houbie/lesscss-gradle-plugin) ⚠️ Archived - Gradle plugin based on Less.
 
