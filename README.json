@@ -10,12 +10,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An enterprise-class UI design language and React UI library",
+            "homepage": "https://ant.design",
             "id": 34526884,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T15:21:33Z",
+            "open_issues": 1105,
             "owner": "ant-design",
             "repo": "ant-design",
-            "stars": 99245
+            "stars": 99257,
+            "topics": [
+              "ant-design",
+              "antd",
+              "design-systems",
+              "react",
+              "typescript",
+              "ui-kit",
+              "ui-library"
+            ]
           },
           "first_seen": "2026-08-28T22:14:05.376Z"
         },
@@ -26,12 +39,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":-1: :train: Less.js For Rails",
+            "homepage": "http://github.com/metaskills/less-rails",
             "id": 2454588,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2022-02-10T11:29:39Z",
+            "open_issues": 11,
             "owner": "metaskills",
             "repo": "less-rails",
-            "stars": 339
+            "stars": 339,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:14:05.376Z"
         },
@@ -42,12 +60,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CSSHórus is a library for easy and fast development of responsive and mobile websites. It contains 12 grid columns and basic style formats (Reset, Print, Grid, Misc styles) and now with 'Skins' stylizing (Typography, Lists, Links, Table, Form, Buttons) for your web project, also with RTL and LESS CSS. See my other projects -->",
+            "homepage": "https://ionictheme.com",
             "id": 5696079,
             "language": "CSS",
+            "license": "MIT",
             "last_commit": "2014-04-16T18:56:14Z",
+            "open_issues": 0,
             "owner": "firminoweb",
             "repo": "csshorus",
-            "stars": 69
+            "stars": 69,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:14:05.376Z"
         },
@@ -58,12 +81,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Make web accessibility (a11y) easier for Bootstrap Developers",
+            "homepage": null,
             "id": 17268083,
             "language": "CSS",
+            "license": null,
             "last_commit": "2014-02-27T23:34:04Z",
+            "open_issues": 1,
             "owner": "bassjobsen",
             "repo": "bootstrap-a11y-theme",
-            "stars": 32
+            "stars": 32,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:14:05.376Z"
         },
@@ -74,12 +102,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Redirect repository",
+            "homepage": "https://github.com/mdbootstrap/bootstrap-material-design",
             "id": 301358198,
             "language": "HTML",
+            "license": "NOASSERTION",
             "last_commit": "2021-05-21T09:34:21Z",
+            "open_issues": 0,
             "owner": "FezVrasta",
             "repo": "bootstrap-material-design",
-            "stars": 25
+            "stars": 25,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:14:05.376Z"
         }
@@ -98,12 +131,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "An adaptive CSS grid system.",
+                "homepage": "http://lessframework.com/",
                 "id": 1936729,
                 "language": "CSS",
+                "license": "MIT",
                 "last_commit": "2016-11-27T10:49:25Z",
+                "open_issues": 4,
                 "owner": "jonikorpi",
                 "repo": "Less-Framework",
-                "stars": 696
+                "stars": 696,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:14:05.376Z"
             },
@@ -114,12 +152,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Bootstrap's grid and responsive utility classes only, without any extras. Lightweight yet still powerful. Style to taste. Works with LessPHP.",
+                "homepage": null,
                 "id": 26524294,
                 "language": "CSS",
+                "license": "MIT",
                 "last_commit": "2017-08-16T12:38:02Z",
+                "open_issues": 3,
                 "owner": "zirafa",
                 "repo": "bootstrap-grid-only",
-                "stars": 445
+                "stars": 445,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:14:05.376Z"
             },
@@ -130,12 +173,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Baseline alignment, column grids and modular scales.",
+                "homepage": null,
                 "id": 14837986,
                 "language": "CSS",
+                "license": "NOASSERTION",
                 "last_commit": "2017-08-09T09:28:22Z",
+                "open_issues": 0,
                 "owner": "chromice",
                 "repo": "order.less",
-                "stars": 21
+                "stars": 21,
+                "topics": [
+                  "grids",
+                  "lesscss",
+                  "scales"
+                ]
               },
               "first_seen": "2026-08-28T22:14:05.376Z"
             },
@@ -146,12 +198,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Super-easy to use, markup-independent LESS grid system.",
+                "homepage": "http://goodpixels.co.uk/less-grid-system",
                 "id": 23152283,
                 "language": "CSS",
+                "license": "MIT",
                 "last_commit": "2015-10-07T20:50:52Z",
+                "open_issues": 1,
                 "owner": "thejspro",
                 "repo": "less-grid-system",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:14:05.376Z"
             },
@@ -162,12 +219,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Implementation of Zen Grid in LESS, this so called CSS isolation, claims to fix the \"sub-pixel rounding\" problem.",
+                "homepage": null,
                 "id": 15675924,
                 "language": "CSS",
+                "license": "GPL-2.0",
                 "last_commit": "2014-09-08T21:59:48Z",
+                "open_issues": 0,
                 "owner": "bassjobsen",
                 "repo": "LESS-Zen-Grid",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:14:05.376Z"
             }
@@ -185,12 +247,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Using LESS CSS to develop a media query driven solution for modern and legacy browsers",
+                "homepage": null,
                 "id": 6715686,
                 "language": null,
+                "license": null,
                 "last_commit": "2012-11-16T09:43:18Z",
+                "open_issues": 0,
                 "owner": "buymeasoda",
                 "repo": "less-media-queries",
-                "stars": 17
+                "stars": 17,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:14:05.376Z"
             },
@@ -201,12 +268,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": ":paperclip: Really simple media queries in Less.",
+                "homepage": null,
                 "id": 26426900,
                 "language": "CSS",
+                "license": "MIT",
                 "last_commit": "2016-01-12T15:04:42Z",
+                "open_issues": 0,
                 "owner": "mrmlnc",
                 "repo": "less-mq",
-                "stars": 10
+                "stars": 10,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:14:05.376Z"
             },
@@ -217,12 +289,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A method for creating an IE specific stylesheet that allows the content of media queries to become accessible to Internet Explorer 8 and below. This process uses LESS string interpolation to convert media queries into media types which are supported back to IE6.",
+                "homepage": null,
                 "id": 10148296,
                 "language": "CSS",
+                "license": null,
                 "last_commit": "2014-01-09T21:30:17Z",
+                "open_issues": 1,
                 "owner": "himedlooff",
                 "repo": "media-query-to-type",
-                "stars": 10
+                "stars": 10,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:14:05.376Z"
             }
@@ -240,12 +317,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Color scheme for UI design.",
+                "homepage": "https://yeun.github.io/open-color/",
                 "id": 65090756,
                 "language": "Handlebars",
+                "license": "MIT",
                 "last_commit": "2023-12-10T16:29:40Z",
+                "open_issues": 26,
                 "owner": "yeun",
                 "repo": "open-color",
-                "stars": 5559
+                "stars": 5559,
+                "topics": [
+                  "adobe-library",
+                  "color",
+                  "color-scheme",
+                  "scss",
+                  "stylus",
+                  "swatches"
+                ]
               },
               "first_seen": "2026-08-28T22:14:05.376Z"
             }
@@ -263,12 +352,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A tiny CSS3 animation library with plug & play options.",
+                "homepage": "https://github.com/machito/animate.less",
                 "id": 7277874,
                 "language": "CSS",
+                "license": null,
                 "last_commit": "2019-08-05T15:20:48Z",
+                "open_issues": 0,
                 "owner": "machito",
                 "repo": "animate.less",
-                "stars": 530
+                "stars": 530,
+                "topics": [
+                  "animations",
+                  "css",
+                  "less"
+                ]
               },
               "first_seen": "2026-08-28T22:14:05.376Z"
             },
@@ -279,12 +377,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "3D (animated) cube using only CSS (Less), originally used by LeanCloud (aka. AVOS Cloud)",
+                "homepage": "https://sparanoid.com/lab/cube.less/",
                 "id": 17163288,
                 "language": "Less",
+                "license": "MIT",
                 "last_commit": "2026-07-07T13:18:44Z",
+                "open_issues": 1,
                 "owner": "sparanoid",
                 "repo": "cube.less",
-                "stars": 55
+                "stars": 55,
+                "topics": [
+                  "css",
+                  "less"
+                ]
               },
               "first_seen": "2026-08-28T22:14:05.376Z"
             },
@@ -295,12 +401,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A library of CSS3 keyframe animations authored using LESS",
+                "homepage": null,
                 "id": 6783105,
                 "language": "HTML",
+                "license": null,
                 "last_commit": "2017-09-06T04:17:37Z",
+                "open_issues": 1,
                 "owner": "joshuapekera",
                 "repo": "animate",
-                "stars": 44
+                "stars": 44,
+                "topics": [
+                  "animation",
+                  "css",
+                  "less"
+                ]
               },
               "first_seen": "2026-08-28T22:14:05.376Z"
             },
@@ -311,12 +426,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A port of Sass Burger to Less",
+                "homepage": "http://markrabey.github.io/less-burger/",
                 "id": 38721900,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2015-12-01T18:04:34Z",
+                "open_issues": 0,
                 "owner": "MarkRabey",
                 "repo": "less-burger",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:14:05.376Z"
             }
@@ -334,12 +454,22 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "JavaScript, SCSS, Sass, Less, and Stylus helpers for rendering high-resolution image variants",
+                "homepage": "http://retinajs.com",
                 "id": 3932983,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-04-14T05:58:04Z",
+                "open_issues": 42,
                 "owner": "strues",
                 "repo": "retinajs",
-                "stars": 4379
+                "stars": 4379,
+                "topics": [
+                  "dpi",
+                  "image",
+                  "javascript",
+                  "retina"
+                ]
               },
               "first_seen": "2026-08-28T22:14:05.376Z"
             },
@@ -350,12 +480,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Smart LESS CSS mixins library.",
+                "homepage": "lesshat.com",
                 "id": 5284910,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2022-03-23T14:21:36Z",
+                "open_issues": 59,
                 "owner": "madebysource",
                 "repo": "lesshat",
-                "stars": 2169
+                "stars": 2169,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:14:05.376Z"
             },
@@ -366,12 +501,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of LESS mixins and variables for writing better CSS.",
+                "homepage": "http://getpreboot.com",
                 "id": 1502338,
                 "language": "CSS",
+                "license": "NOASSERTION",
                 "last_commit": "2016-01-20T20:45:01Z",
+                "open_issues": 5,
                 "owner": "mdo",
                 "repo": "preboot",
-                "stars": 1663
+                "stars": 1663,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:14:05.376Z"
             },
@@ -382,12 +522,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "EFE Styling Toolkit based on Less",
+                "homepage": "http://ecomfe.github.io/est",
                 "id": 10072815,
                 "language": "Less",
+                "license": "MIT",
                 "last_commit": "2023-03-02T06:28:13Z",
+                "open_issues": 5,
                 "owner": "ecomfe",
                 "repo": "est",
-                "stars": 392
+                "stars": 392,
+                "topics": [
+                  "css",
+                  "less",
+                  "mixins"
+                ]
               },
               "first_seen": "2026-08-28T22:14:05.376Z"
             },
@@ -398,12 +547,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A set of useful mixins for LESS, the CSS pre-processor: http://lesscss.org",
+                "homepage": "http://mrkrupski.github.com/LESS-Dynamic-Stylesheet/",
                 "id": 2902113,
                 "language": "CSS",
+                "license": null,
                 "last_commit": "2015-01-15T16:13:37Z",
+                "open_issues": 0,
                 "owner": "mrkrupski",
                 "repo": "LESS-Dynamic-Stylesheet",
-                "stars": 96
+                "stars": 96,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:14:05.376Z"
             },
@@ -414,12 +568,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":large_orange_diamond: Collection of LESS mixins for various shapes",
+                "homepage": "http://fahad19.github.io/shape.less",
                 "id": 13455514,
                 "language": "CSS",
+                "license": "NOASSERTION",
                 "last_commit": "2013-10-22T21:05:14Z",
+                "open_issues": 1,
                 "owner": "fahad19",
                 "repo": "shape.less",
-                "stars": 35
+                "stars": 35,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:14:05.376Z"
             },
@@ -430,12 +589,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A set of LESS mixins that allows creating bi-directional styling without code duplication",
+                "homepage": null,
                 "id": 7851041,
                 "language": "CSS",
+                "license": "NOASSERTION",
                 "last_commit": "2016-03-27T21:57:50Z",
+                "open_issues": 0,
                 "owner": "danielkatz",
                 "repo": "less-bidi",
-                "stars": 14
+                "stars": 14,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:14:05.376Z"
             },
@@ -446,12 +610,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Modularized famous normalize.css using less",
+                "homepage": null,
                 "id": 36530873,
                 "language": "CSS",
+                "license": "MIT",
                 "last_commit": "2018-11-16T23:55:29Z",
+                "open_issues": 0,
                 "owner": "segundofdez",
                 "repo": "normalize.less",
-                "stars": 13
+                "stars": 13,
+                "topics": [
+                  "less",
+                  "modularity",
+                  "normalize"
+                ]
               },
               "first_seen": "2026-08-28T22:14:05.376Z"
             },
@@ -462,12 +635,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Lessmore - the modern library of LESS mixins that implements cross-browser support for the CSS3 features and more.",
+                "homepage": null,
                 "id": 42413688,
                 "language": "CSS",
+                "license": "MIT",
                 "last_commit": "2017-02-27T22:33:39Z",
+                "open_issues": 0,
                 "owner": "belyan",
                 "repo": "lessmore",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:14:05.376Z"
             },
@@ -478,12 +656,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A library of handy LESS-CSS mixins and functions",
+                "homepage": null,
                 "id": 12903176,
                 "language": "CSS",
+                "license": null,
                 "last_commit": "2014-01-09T22:11:56Z",
+                "open_issues": 0,
                 "owner": "therebelrobot",
                 "repo": "tRRtoolbelt.less",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:14:05.376Z"
             }
@@ -505,12 +688,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Best-practices and coding conventions for the {less} css pre-processing language",
+            "homepage": null,
             "id": 27131846,
             "language": null,
+            "license": null,
             "last_commit": "2016-10-10T15:07:58Z",
+            "open_issues": 0,
             "owner": "handshake",
             "repo": "less-style-guide",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:14:05.376Z"
         },
@@ -521,12 +709,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CSS/LESS style guide",
+            "homepage": "https://github.com/CaleyD/FrontEndGuidelines",
             "id": 10676912,
             "language": null,
+            "license": null,
             "last_commit": "2014-06-06T23:29:55Z",
+            "open_issues": 0,
             "owner": "bitmap",
             "repo": "less-styleguide",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:14:05.376Z"
         }
@@ -545,12 +738,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "LESS Engine - A Java wrapper for less.js",
+                "homepage": "http://www.asual.com/lesscss",
                 "id": 327676,
                 "language": "JavaScript",
+                "license": "Apache-2.0",
                 "last_commit": "2020-10-13T09:48:34Z",
+                "open_issues": 22,
                 "owner": "asual",
                 "repo": "lesscss-engine",
-                "stars": 219
+                "stars": 219,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:14:05.376Z"
             },
@@ -561,12 +759,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "LESS CSS Compiler for Java",
+                "homepage": null,
                 "id": 3710690,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2018-10-22T12:48:00Z",
+                "open_issues": 30,
                 "owner": "marceloverdijk",
                 "repo": "lesscss-java",
-                "stars": 163
+                "stars": 163,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:14:05.376Z"
             },
@@ -577,12 +780,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Less language is an extension of css and less4j compiles it into regular css. Less adds several dynamic features into css: variables, expressions, nested rules, and so on. Less was designed to be compatible with css and any correct css file is also correct less file.",
+                "homepage": null,
                 "id": 4661516,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2022-10-04T23:42:07Z",
+                "open_issues": 46,
                 "owner": "SomMeri",
                 "repo": "less4j",
-                "stars": 147
+                "stars": 147,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:14:05.376Z"
             },
@@ -593,12 +801,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Less CSS compiler written in Java",
+                "homepage": null,
                 "id": 28186168,
                 "language": "Java",
+                "license": "MIT",
                 "last_commit": "2026-06-20T16:30:06Z",
+                "open_issues": 3,
                 "owner": "i-net-software",
                 "repo": "jlessc",
-                "stars": 59
+                "stars": 59,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:14:05.376Z"
             },
@@ -609,12 +822,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Java Less CSS Compiler",
+                "homepage": null,
                 "id": 10367311,
                 "language": "JavaScript",
+                "license": "Apache-2.0",
                 "last_commit": "2015-08-03T08:59:27Z",
+                "open_issues": 1,
                 "owner": "houbie",
                 "repo": "lesscss",
-                "stars": 11
+                "stars": 11,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:14:05.376Z"
             },
@@ -625,12 +843,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": null,
+                "homepage": null,
                 "id": 17644544,
                 "language": "Groovy",
+                "license": "Apache-2.0",
                 "last_commit": "2017-12-27T09:31:37Z",
+                "open_issues": 1,
                 "owner": "houbie",
                 "repo": "lesscss-gradle-plugin",
-                "stars": 9
+                "stars": 9,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:14:05.376Z"
             }
@@ -648,12 +871,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PHP port of Less.js",
+                "homepage": "http://demo-iless.rhcloud.com/",
                 "id": 15798678,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2019-04-29T09:58:47Z",
+                "open_issues": 5,
                 "owner": "mishal",
                 "repo": "iless",
-                "stars": 47
+                "stars": 47,
+                "topics": [
+                  "css",
+                  "less",
+                  "lessc",
+                  "lesscss",
+                  "php",
+                  "preprocessor"
+                ]
               },
               "first_seen": "2026-08-28T22:14:05.376Z"
             }
@@ -671,12 +906,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Python LESS compiler",
+                "homepage": null,
                 "id": 3291035,
                 "language": "Less",
+                "license": "MIT",
                 "last_commit": "2026-07-30T12:22:21Z",
+                "open_issues": 37,
                 "owner": "lesscpy",
                 "repo": "lesscpy",
-                "stars": 144
+                "stars": 144,
+                "topics": [
+                  "compiler",
+                  "css",
+                  "less",
+                  "lex",
+                  "ply",
+                  "python",
+                  "yacc"
+                ]
               },
               "first_seen": "2026-08-28T22:14:05.376Z"
             }
@@ -694,12 +942,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Leaner CSS, in your browser or Ruby (via less.js).",
+                "homepage": "http://lesscss.org",
                 "id": 835652,
                 "language": "Ruby",
+                "license": null,
                 "last_commit": "2017-04-10T22:28:02Z",
+                "open_issues": 17,
                 "owner": "cowboyd",
                 "repo": "less.rb",
-                "stars": 118
+                "stars": 118,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:14:05.376Z"
             }
@@ -717,12 +970,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Less compiler for golang",
+                "homepage": null,
                 "id": 47600423,
                 "language": "JavaScript",
+                "license": "Apache-2.0",
                 "last_commit": "2017-08-21T07:35:37Z",
+                "open_issues": 1,
                 "owner": "kib357",
                 "repo": "less-go",
-                "stars": 17
+                "stars": 17,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:14:05.376Z"
             }
@@ -744,12 +1002,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fuzzy abbreviations, support for preprocessors (Sass, Less, Stylus) and a lot of other features in easily configurable set of tools for writing CSS faster",
+            "homepage": null,
             "id": 2789887,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2019-06-24T11:47:18Z",
+            "open_issues": 110,
             "owner": "hayaku",
             "repo": "hayaku",
-            "stars": 964
+            "stars": 964,
+            "topics": [
+              "abbreviations",
+              "auto-complete",
+              "css",
+              "snippets",
+              "sublime-package",
+              "sublime-text-3"
+            ]
           },
           "first_seen": "2026-08-28T22:14:05.376Z"
         },
@@ -760,12 +1030,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Compile LESS files to CSS.",
+            "homepage": "http://gruntjs.com/",
             "id": 5676089,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-06-23T07:30:27Z",
+            "open_issues": 28,
             "owner": "gruntjs",
             "repo": "grunt-contrib-less",
-            "stars": 664
+            "stars": 664,
+            "topics": [
+              "hacktoberfest"
+            ]
           },
           "first_seen": "2026-08-28T22:14:05.376Z"
         },
@@ -776,12 +1053,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "vim syntax for LESS (dynamic CSS)",
+            "homepage": null,
             "id": 1763463,
             "language": "VimL",
+            "license": null,
             "last_commit": "2016-04-25T09:02:08Z",
+            "open_issues": 6,
             "owner": "groenewege",
             "repo": "vim-less",
-            "stars": 598
+            "stars": 598,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:14:05.376Z"
         },
@@ -792,12 +1074,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A LESS plugin for Gulp",
+            "homepage": null,
             "id": 11264371,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2021-06-20T16:51:24Z",
+            "open_issues": 10,
             "owner": "gulp-community",
             "repo": "gulp-less",
-            "stars": 558
+            "stars": 558,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:14:05.376Z"
         },
@@ -808,12 +1095,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "LESS syntax highlighting for Sublime Text.",
+            "homepage": "https://sublime.wbond.net/packages/LESS",
             "id": 3194088,
             "language": "Less",
+            "license": null,
             "last_commit": "2023-05-17T15:15:26Z",
+            "open_issues": 0,
             "owner": "danro",
             "repo": "LESS-sublime",
-            "stars": 499
+            "stars": 499,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:14:05.376Z"
         },
@@ -824,12 +1116,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Trigger a build the moment you save a file in Sublime Text 2. Works best with web projects that make use of Less, Compass and any other pre-processor or a makefile.",
+            "homepage": null,
             "id": 2442402,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2018-09-06T04:48:10Z",
+            "open_issues": 10,
             "owner": "alexnj",
             "repo": "SublimeOnSaveBuild",
-            "stars": 233
+            "stars": 233,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:14:05.376Z"
         },
@@ -840,12 +1137,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Sublime Text 2 Plugin to compile less files to css on save",
+            "homepage": null,
             "id": 5233440,
             "language": "Python",
+            "license": null,
             "last_commit": "2019-10-19T07:03:24Z",
+            "open_issues": 66,
             "owner": "timdouglas",
             "repo": "sublime-less2css",
-            "stars": 199
+            "stars": 199,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:14:05.376Z"
         },
@@ -856,12 +1158,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A tool to aid you in writing clean and consistent Less.",
+            "homepage": null,
             "id": 33480727,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2022-04-22T18:46:57Z",
+            "open_issues": 19,
             "owner": "lesshint",
             "repo": "lesshint",
-            "stars": 117
+            "stars": 117,
+            "topics": [
+              "javascript",
+              "less",
+              "linter"
+            ]
           },
           "first_seen": "2026-08-28T22:14:05.376Z"
         },
@@ -872,12 +1183,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Emacs mode for LESS CSS (lesscss.org), with support for compile-on-save",
+            "homepage": null,
             "id": 2268746,
             "language": "Emacs Lisp",
+            "license": null,
             "last_commit": "2026-04-22T12:27:47Z",
+            "open_issues": 1,
             "owner": "purcell",
             "repo": "less-css-mode",
-            "stars": 100
+            "stars": 100,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:14:05.376Z"
         },
@@ -888,12 +1204,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Lint LESS files with Grunt",
+            "homepage": "http://jgable.github.io/grunt-lesslint",
             "id": 10645549,
             "language": "CoffeeScript",
+            "license": "MIT",
             "last_commit": "2021-02-13T17:34:01Z",
+            "open_issues": 4,
             "owner": "jgable",
             "repo": "grunt-lesslint",
-            "stars": 75
+            "stars": 75,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:14:05.376Z"
         },
@@ -904,12 +1225,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Syntax Highlighting for LESS files in Notepad++ (UDL v2.1)",
+            "homepage": null,
             "id": 9821007,
             "language": "HTML",
+            "license": null,
             "last_commit": "2023-03-16T02:56:25Z",
+            "open_issues": 4,
             "owner": "azrafe7",
             "repo": "LESS-for-Notepad-plusplus",
-            "stars": 68
+            "stars": 68,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:14:05.376Z"
         },
@@ -920,12 +1246,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Use variables and nesting in your css files with Sublime Text 2 & 3",
+            "homepage": null,
             "id": 2479699,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2015-02-03T06:54:36Z",
+            "open_issues": 1,
             "owner": "kizza",
             "repo": "CSS-Less-ish",
-            "stars": 48
+            "stars": 48,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:14:05.376Z"
         },
@@ -936,12 +1267,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CakePHP plugin that converts your .less files to .css using only PHP",
+            "homepage": "http://www.mindthecode.com",
             "id": 2360189,
             "language": "PHP",
+            "license": null,
             "last_commit": "2015-04-08T15:08:36Z",
+            "open_issues": 3,
             "owner": "Hyra",
             "repo": "less",
-            "stars": 27
+            "stars": 27,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:14:05.376Z"
         },
@@ -952,12 +1288,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Eclipse plugin to automatically transpile your files (LESS, SASS, CoffeeScript, etc.).",
+            "homepage": null,
             "id": 15661712,
             "language": "Java",
+            "license": "MIT",
             "last_commit": "2017-06-23T06:25:00Z",
+            "open_issues": 10,
             "owner": "gossi",
             "repo": "eclipse-transpiler-plugin",
-            "stars": 20
+            "stars": 20,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:14:05.376Z"
         },
@@ -968,12 +1309,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Linter plug in for Less in the Atom text editor",
+            "homepage": null,
             "id": 23833077,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2022-04-09T23:34:07Z",
+            "open_issues": 7,
             "owner": "josa42",
             "repo": "atom-linter-less",
-            "stars": 11
+            "stars": 11,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:14:05.376Z"
         }
@@ -990,12 +1336,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PHP port of Less.js",
+            "homepage": "http://demo-iless.rhcloud.com/",
             "id": 15798678,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2019-04-29T09:58:47Z",
+            "open_issues": 5,
             "owner": "mishal",
             "repo": "iless",
-            "stars": 47
+            "stars": 47,
+            "topics": [
+              "css",
+              "less",
+              "lessc",
+              "lesscss",
+              "php",
+              "preprocessor"
+            ]
           },
           "first_seen": "2026-08-28T22:14:05.376Z"
         }
@@ -1012,12 +1370,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Less. The dynamic stylesheet language.",
+            "homepage": "http://lesscss.org",
             "id": 527644,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-13T22:21:40Z",
+            "open_issues": 182,
             "owner": "less",
             "repo": "less.js",
-            "stars": 17029
+            "stars": 17029,
+            "topics": [
+              "css",
+              "language",
+              "stylesheet-language"
+            ]
           },
           "first_seen": "2026-08-28T22:14:05.376Z"
         }
@@ -1026,15 +1393,26 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T22:14:05.376Z",
+    "last_updated": "2026-08-29T05:03:42.440Z",
     "original_repository_info": {
       "archived": false,
+      "description": ":sunglasses: A curated list of awesome {Less}",
+      "homepage": null,
       "id": 76553096,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2022-08-16T11:56:58Z",
+      "open_issues": 1,
       "owner": "LucasBassetti",
       "repo": "awesome-less",
-      "stars": 68
+      "stars": 68,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "css",
+        "less",
+        "lesscss"
+      ]
     },
     "original_repository_sha": "ca13f688d5a8d115d8bbb52a6067b7054f5a3036",
     "enhanced_repository": "enhansome/enhansome-less",
