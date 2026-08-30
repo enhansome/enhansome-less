@@ -15,11 +15,11 @@
             "id": 34526884,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-08-29T13:49:26Z",
-            "open_issues": 1109,
+            "last_commit": "2026-08-30T11:33:00Z",
+            "open_issues": 1107,
             "owner": "ant-design",
             "repo": "ant-design",
-            "stars": 99269,
+            "stars": 99286,
             "topics": [
               "ant-design",
               "antd",
@@ -1039,7 +1039,7 @@
             "open_issues": 28,
             "owner": "gruntjs",
             "repo": "grunt-contrib-less",
-            "stars": 664,
+            "stars": 663,
             "topics": [
               "hacktoberfest"
             ]
@@ -1379,7 +1379,7 @@
             "open_issues": 182,
             "owner": "less",
             "repo": "less.js",
-            "stars": 17029,
+            "stars": 17030,
             "topics": [
               "css",
               "language",
@@ -1393,7 +1393,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T16:40:17.491Z",
+    "last_updated": "2026-08-30T16:36:47.949Z",
     "original_repository_info": {
       "archived": false,
       "description": ":sunglasses: A curated list of awesome {Less}",

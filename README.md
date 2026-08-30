@@ -47,13 +47,13 @@ Less is a open source dynamic style sheet language that can be compiled into Cas
 * [Getting Started with Less](https://scotch.io/tutorials/getting-started-with-less)
 * [Learn in 10 Minutes](http://tutorialzine.com/2015/07/learn-less-in-10-minutes-or-less/)
 * [Official Guide](http://lesscss.org/)
-* [Official Repository](https://github.com/less/less.js) ⭐ 17,029 | 🐛 182 | 🌐 JavaScript | 📅 2026-08-13
+* [Official Repository](https://github.com/less/less.js) ⭐ 17,030 | 🐛 182 | 🌐 JavaScript | 📅 2026-08-13
 
 **[Back to top](#contents)**
 
 ## UI/Theme Frameworks and Components
 
-* [Ant Design](https://github.com/ant-design/ant-design/) ⭐ 99,269 | 🐛 1,109 | 🌐 TypeScript | 📅 2026-08-29 - 	An enterprise-class UI design language and React-based implementation.
+* [Ant Design](https://github.com/ant-design/ant-design/) ⭐ 99,286 | 🐛 1,107 | 🌐 TypeScript | 📅 2026-08-30 - 	An enterprise-class UI design language and React-based implementation.
 * [Less Rails](https://github.com/metaskills/less-rails) ⭐ 339 | 🐛 11 | 🌐 Ruby | 📅 2022-02-10 - Less for Rails.
 * [CSSHórus](https://github.com/firminoweb/csshorus) ⭐ 69 | 🐛 0 | 🌐 CSS | 📅 2014-04-16 - 	Library for development of responsive and mobile websites.
 * [Bootstrap a11y theme](https://github.com/bassjobsen/bootstrap-a11y-theme) ⭐ 32 | 🐛 1 | 🌐 CSS | 📅 2014-02-27 - Makes web accessibility easier for Bootstrap developers.
@@ -121,7 +121,7 @@ Less is a open source dynamic style sheet language that can be compiled into Cas
 * [Dynamic Stylesheet](https://github.com/mrkrupski/LESS-Dynamic-Stylesheet) ⭐ 96 | 🐛 0 | 🌐 CSS | 📅 2015-01-15 - Set of useful mixins.
 * [Shape](https://github.com/fahad19/shape.less) ⭐ 35 | 🐛 1 | 🌐 CSS | 📅 2013-10-22 - Collection of mixins for various shapes.
 * [Bidi](https://github.com/danielkatz/less-bidi) ⭐ 14 | 🐛 0 | 🌐 CSS | 📅 2016-03-27 - Set of mixins for creating bi-directional styling.
-* [Normalize](https://github.com/segundofdez/normalize.less) ⭐ 13 | 🐛 0 | 🌐 CSS | 📅 2018-11-16 - 	Modularized famous [normalize.css](https://github.com/necolas/normalize.css/) ⭐ 53,516 | 🐛 75 | 🌐 CSS | 📅 2024-06-12 using Less.
+* [Normalize](https://github.com/segundofdez/normalize.less) ⭐ 13 | 🐛 0 | 🌐 CSS | 📅 2018-11-16 - 	Modularized famous [normalize.css](https://github.com/necolas/normalize.css/) ⭐ 53,518 | 🐛 75 | 🌐 CSS | 📅 2024-06-12 using Less.
 * [Lessmore](https://github.com/belyan/lessmore) ⭐ 6 | 🐛 0 | 🌐 CSS | 📅 2017-02-27 - 	Mixins library. Cross-browser support for the CSS3 features and more.
 * [TRRtoolbelt](https://github.com/therebelrobot/tRRtoolbelt.less) ⭐ 2 | 🐛 0 | 🌐 CSS | 📅 2014-01-09 - Mixins and functions for common actions.
 * [3L](http://mateuszkocz.github.io/3l/) - Mixins library.
@@ -193,7 +193,7 @@ Less is a open source dynamic style sheet language that can be compiled into Cas
 ## GUIs, Editors and Plugins
 
 * [Hayaky](https://github.com/hayaku/hayaku) ⭐ 964 | 🐛 110 | 🌐 Python | 📅 2019-06-24 - Hayaku is a bundle of useful scripts aiming for rapid front-end web development.
-* [Grunt Contrib](https://github.com/gruntjs/grunt-contrib-less) ⭐ 664 | 🐛 28 | 🌐 JavaScript | 📅 2026-06-23 - Compile Less files to CSS using Grunt.
+* [Grunt Contrib](https://github.com/gruntjs/grunt-contrib-less) ⭐ 663 | 🐛 28 | 🌐 JavaScript | 📅 2026-06-23 - Compile Less files to CSS using Grunt.
 * [Vim Less](https://github.com/groenewege/vim-less) ⭐ 598 | 🐛 6 | 🌐 VimL | 📅 2016-04-25 - This vim bundle adds syntax highlighting, indenting and autocompletion.
 * [Gulp Less](https://github.com/plus3network/gulp-less) ⭐ 558 | 🐛 10 | 🌐 JavaScript | 📅 2021-06-20 - Plugin for Gulp.
 * [Less Sublime](https://github.com/danro/Less-sublime) ⭐ 499 | 🐛 0 | 🌐 Less | 📅 2023-05-17 - Syntax highlighting for Sublime Text.
@@ -303,7 +303,7 @@ Less is a open source dynamic style sheet language that can be compiled into Cas
 
 ## Community
 
-* [Contributing to Less](https://github.com/less/less.js/blob/master/CONTRIBUTING.md) ⭐ 17,029 | 🐛 182 | 🌐 JavaScript | 📅 2026-08-13
+* [Contributing to Less](https://github.com/less/less.js/blob/master/CONTRIBUTING.md) ⭐ 17,030 | 🐛 182 | 🌐 JavaScript | 📅 2026-08-13
 * [Freenode](http://webchat.freenode.net/?randomnick=1\&channels=%23%23lesscss)
 * [Medium](https://medium.com/search?q=less%20css)
 * [Quora](https://www.quora.com/topic/LESS-stylesheet-language)
@@ -328,4 +328,4 @@ To the extent possible under law, [Lucas Bassetti](http://lucasbassetti.com.br) 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
