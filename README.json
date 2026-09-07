@@ -15,11 +15,11 @@
             "id": 34526884,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-06T11:36:06Z",
-            "open_issues": 1111,
+            "last_commit": "2026-09-07T09:09:59Z",
+            "open_issues": 1107,
             "owner": "ant-design",
             "repo": "ant-design",
-            "stars": 99409,
+            "stars": 99416,
             "topics": [
               "ant-design",
               "antd",
@@ -510,7 +510,7 @@
                 "open_issues": 5,
                 "owner": "mdo",
                 "repo": "preboot",
-                "stars": 1663,
+                "stars": 1662,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:14:05.376Z"
@@ -1375,11 +1375,11 @@
             "id": 527644,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-05T01:15:01Z",
-            "open_issues": 180,
+            "last_commit": "2026-09-07T17:19:14Z",
+            "open_issues": 181,
             "owner": "less",
             "repo": "less.js",
-            "stars": 17025,
+            "stars": 17024,
             "topics": [
               "css",
               "language",
@@ -1393,7 +1393,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T15:23:54.988Z",
+    "last_updated": "2026-09-07T17:43:22.416Z",
     "original_repository_info": {
       "archived": false,
       "description": ":sunglasses: A curated list of awesome {Less}",
