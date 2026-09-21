@@ -15,11 +15,11 @@
             "id": 34526884,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-20T09:45:28Z",
-            "open_issues": 1072,
+            "last_commit": "2026-09-21T11:40:17Z",
+            "open_issues": 1074,
             "owner": "ant-design",
             "repo": "ant-design",
-            "stars": 99564,
+            "stars": 99573,
             "topics": [
               "ant-design",
               "antd",
@@ -326,7 +326,7 @@
                 "open_issues": 26,
                 "owner": "yeun",
                 "repo": "open-color",
-                "stars": 5565,
+                "stars": 5566,
                 "topics": [
                   "adobe-library",
                   "color",
@@ -1375,11 +1375,11 @@
             "id": 527644,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-18T20:55:50Z",
-            "open_issues": 187,
+            "last_commit": "2026-09-21T14:10:13Z",
+            "open_issues": 186,
             "owner": "less",
             "repo": "less.js",
-            "stars": 17025,
+            "stars": 17026,
             "topics": [
               "css",
               "language",
@@ -1393,7 +1393,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T15:59:24.972Z",
+    "last_updated": "2026-09-21T18:11:20.052Z",
     "original_repository_info": {
       "archived": false,
       "description": ":sunglasses: A curated list of awesome {Less}",
