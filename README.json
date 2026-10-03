@@ -19,7 +19,7 @@
             "open_issues": 1098,
             "owner": "ant-design",
             "repo": "ant-design",
-            "stars": 99662,
+            "stars": 99663,
             "topics": [
               "ant-design",
               "antd",
@@ -1375,7 +1375,7 @@
             "id": 527644,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-21T14:10:13Z",
+            "last_commit": "2026-10-03T15:38:21Z",
             "open_issues": 187,
             "owner": "less",
             "repo": "less.js",
@@ -1393,7 +1393,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:53:09.041Z",
+    "last_updated": "2026-10-03T16:10:52.055Z",
     "original_repository_info": {
       "archived": false,
       "description": ":sunglasses: A curated list of awesome {Less}",
