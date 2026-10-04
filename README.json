@@ -15,11 +15,11 @@
             "id": 34526884,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-02T08:13:12Z",
-            "open_issues": 1098,
+            "last_commit": "2026-10-04T16:32:36Z",
+            "open_issues": 1102,
             "owner": "ant-design",
             "repo": "ant-design",
-            "stars": 99663,
+            "stars": 99676,
             "topics": [
               "ant-design",
               "antd",
@@ -463,7 +463,7 @@
                 "open_issues": 42,
                 "owner": "strues",
                 "repo": "retinajs",
-                "stars": 4376,
+                "stars": 4377,
                 "topics": [
                   "dpi",
                   "image",
@@ -1375,7 +1375,7 @@
             "id": 527644,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-03T15:38:21Z",
+            "last_commit": "2026-10-03T19:59:54Z",
             "open_issues": 187,
             "owner": "less",
             "repo": "less.js",
@@ -1393,7 +1393,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T16:10:52.055Z",
+    "last_updated": "2026-10-04T16:49:40.001Z",
     "original_repository_info": {
       "archived": false,
       "description": ":sunglasses: A curated list of awesome {Less}",
