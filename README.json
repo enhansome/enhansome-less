@@ -15,11 +15,11 @@
             "id": 34526884,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-13T09:49:16Z",
-            "open_issues": 1113,
+            "last_commit": "2026-10-14T14:34:56Z",
+            "open_issues": 1103,
             "owner": "ant-design",
             "repo": "ant-design",
-            "stars": 99751,
+            "stars": 99765,
             "topics": [
               "ant-design",
               "antd",
@@ -326,7 +326,7 @@
                 "open_issues": 26,
                 "owner": "yeun",
                 "repo": "open-color",
-                "stars": 5573,
+                "stars": 5574,
                 "topics": [
                   "adobe-library",
                   "color",
@@ -1083,7 +1083,7 @@
             "open_issues": 9,
             "owner": "gulp-community",
             "repo": "gulp-less",
-            "stars": 558,
+            "stars": 557,
             "topics": []
           },
           "first_seen": "2026-08-28T22:14:05.376Z"
@@ -1393,7 +1393,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T19:12:39.518Z",
+    "last_updated": "2026-10-14T17:03:48.418Z",
     "original_repository_info": {
       "archived": false,
       "description": ":sunglasses: A curated list of awesome {Less}",
