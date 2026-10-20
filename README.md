@@ -47,14 +47,14 @@ Less is a open source dynamic style sheet language that can be compiled into Cas
 * [Getting Started with Less](https://scotch.io/tutorials/getting-started-with-less)
 * [Learn in 10 Minutes](http://tutorialzine.com/2015/07/learn-less-in-10-minutes-or-less/)
 * [Official Guide](http://lesscss.org/)
-* [Official Repository](https://github.com/less/less.js) ⭐ 17,018 | 🐛 189 | 🌐 JavaScript | 📅 2026-10-15
+* [Official Repository](https://github.com/less/less.js) ⭐ 17,017 | 🐛 188 | 🌐 JavaScript | 📅 2026-10-20
 
 **[Back to top](#contents)**
 
 ## UI/Theme Frameworks and Components
 
-* [Ant Design](https://github.com/ant-design/ant-design/) ⭐ 99,811 | 🐛 1,113 | 🌐 TypeScript | 📅 2026-10-19 - 	An enterprise-class UI design language and React-based implementation.
-* [Less Rails](https://github.com/metaskills/less-rails) ⭐ 339 | 🐛 11 | 🌐 Ruby | 📅 2022-02-10 - Less for Rails.
+* [Ant Design](https://github.com/ant-design/ant-design/) ⭐ 99,827 | 🐛 1,115 | 🌐 TypeScript | 📅 2026-10-20 - 	An enterprise-class UI design language and React-based implementation.
+* [Less Rails](https://github.com/metaskills/less-rails) ⭐ 338 | 🐛 11 | 🌐 Ruby | 📅 2022-02-10 - Less for Rails.
 * [CSSHórus](https://github.com/firminoweb/csshorus) ⭐ 69 | 🐛 1 | 🌐 CSS | 📅 2014-04-16 - 	Library for development of responsive and mobile websites.
 * [Bootstrap a11y theme](https://github.com/bassjobsen/bootstrap-a11y-theme) ⭐ 32 | 🐛 1 | 🌐 CSS | 📅 2014-02-27 - Makes web accessibility easier for Bootstrap developers.
 * [Material Design for Bootstrap](https://github.com/FezVrasta/bootstrap-material-design) ⭐ 25 | 🐛 0 | 🌐 HTML | 📅 2021-05-21 - Material Design for Bootstrap is a Bootstrap V3 compatible theme; it is an easy way to use the new Material Design guidelines by Google in your Bootstrap 3 based application.
@@ -96,7 +96,7 @@ Less is a open source dynamic style sheet language that can be compiled into Cas
 
 ### Color
 
-* [Open Color](https://github.com/yeun/open-color) ⭐ 5,579 | 🐛 26 | 🌐 Handlebars | 📅 2023-12-10 - Open color is a color scheme for UI design. Available in CSS, SCSS, Less, Stylus, Adobe library, Photoshop/Illustrator swatches and Sketch palette.
+* [Open Color](https://github.com/yeun/open-color) ⭐ 5,580 | 🐛 26 | 🌐 Handlebars | 📅 2023-12-10 - Open color is a color scheme for UI design. Available in CSS, SCSS, Less, Stylus, Adobe library, Photoshop/Illustrator swatches and Sketch palette.
 * [Brand Colors](http://brand-colors.com/) - 1100+ collection of popular brand colors available in Sass, Less, Stylus and CSS.
 * [More-Colors](http://jasonrobb.github.io/More-Colors.less/) - Variables for easier color manipulation while you design in the browser.
 
@@ -115,13 +115,13 @@ Less is a open source dynamic style sheet language that can be compiled into Cas
 ### Miscellaneous
 
 * [Retina.js](https://github.com/imulus/retinajs) ⚠️ Archived - JavaScript, SCSS, Sass, Less, and Stylus helpers for rendering high-resolution image variants.
-* [Lesshat](https://github.com/madebysource/lesshat) ⭐ 2,166 | 🐛 59 | 🌐 JavaScript | 📅 2022-03-23 - Smart mixins library.
+* [Lesshat](https://github.com/madebysource/lesshat) ⭐ 2,165 | 🐛 59 | 🌐 JavaScript | 📅 2022-03-23 - Smart mixins library.
 * [Preboot](https://github.com/mdo/preboot) ⭐ 1,659 | 🐛 5 | 🌐 CSS | 📅 2016-01-20 - Collection of mixins and variables for writing better CSS.
 * [Est](https://github.com/ecomfe/est/) ⭐ 393 | 🐛 5 | 🌐 Less | 📅 2023-03-02 - 	Mixin library.
 * [Dynamic Stylesheet](https://github.com/mrkrupski/LESS-Dynamic-Stylesheet) ⭐ 96 | 🐛 0 | 🌐 CSS | 📅 2015-01-15 - Set of useful mixins.
 * [Shape](https://github.com/fahad19/shape.less) ⭐ 35 | 🐛 1 | 🌐 CSS | 📅 2013-10-22 - Collection of mixins for various shapes.
 * [Bidi](https://github.com/danielkatz/less-bidi) ⭐ 14 | 🐛 0 | 🌐 CSS | 📅 2016-03-27 - Set of mixins for creating bi-directional styling.
-* [Normalize](https://github.com/segundofdez/normalize.less) ⭐ 13 | 🐛 0 | 🌐 CSS | 📅 2018-11-16 - 	Modularized famous [normalize.css](https://github.com/necolas/normalize.css/) ⭐ 53,506 | 🐛 75 | 🌐 CSS | 📅 2024-06-12 using Less.
+* [Normalize](https://github.com/segundofdez/normalize.less) ⭐ 13 | 🐛 0 | 🌐 CSS | 📅 2018-11-16 - 	Modularized famous [normalize.css](https://github.com/necolas/normalize.css/) ⭐ 53,503 | 🐛 75 | 🌐 CSS | 📅 2024-06-12 using Less.
 * [Lessmore](https://github.com/belyan/lessmore) ⭐ 6 | 🐛 0 | 🌐 CSS | 📅 2017-02-27 - 	Mixins library. Cross-browser support for the CSS3 features and more.
 * [TRRtoolbelt](https://github.com/therebelrobot/tRRtoolbelt.less) ⭐ 2 | 🐛 0 | 🌐 CSS | 📅 2014-01-09 - Mixins and functions for common actions.
 * [3L](http://mateuszkocz.github.io/3l/) - Mixins library.
@@ -303,7 +303,7 @@ Less is a open source dynamic style sheet language that can be compiled into Cas
 
 ## Community
 
-* [Contributing to Less](https://github.com/less/less.js/blob/master/CONTRIBUTING.md) ⭐ 17,018 | 🐛 189 | 🌐 JavaScript | 📅 2026-10-15
+* [Contributing to Less](https://github.com/less/less.js/blob/master/CONTRIBUTING.md) ⭐ 17,017 | 🐛 188 | 🌐 JavaScript | 📅 2026-10-20
 * [Freenode](http://webchat.freenode.net/?randomnick=1\&channels=%23%23lesscss)
 * [Medium](https://medium.com/search?q=less%20css)
 * [Quora](https://www.quora.com/topic/LESS-stylesheet-language)
@@ -328,4 +328,4 @@ To the extent possible under law, [Lucas Bassetti](http://lucasbassetti.com.br) 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-20._
