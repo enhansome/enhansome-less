@@ -47,13 +47,13 @@ Less is a open source dynamic style sheet language that can be compiled into Cas
 * [Getting Started with Less](https://scotch.io/tutorials/getting-started-with-less)
 * [Learn in 10 Minutes](http://tutorialzine.com/2015/07/learn-less-in-10-minutes-or-less/)
 * [Official Guide](http://lesscss.org/)
-* [Official Repository](https://github.com/less/less.js) ⭐ 17,017 | 🐛 189 | 🌐 JavaScript | 📅 2026-10-20
+* [Official Repository](https://github.com/less/less.js) ⭐ 17,014 | 🐛 189 | 🌐 JavaScript | 📅 2026-10-22
 
 **[Back to top](#contents)**
 
 ## UI/Theme Frameworks and Components
 
-* [Ant Design](https://github.com/ant-design/ant-design/) ⭐ 99,837 | 🐛 1,112 | 🌐 TypeScript | 📅 2026-10-21 - 	An enterprise-class UI design language and React-based implementation.
+* [Ant Design](https://github.com/ant-design/ant-design/) ⭐ 99,846 | 🐛 1,108 | 🌐 TypeScript | 📅 2026-10-22 - 	An enterprise-class UI design language and React-based implementation.
 * [Less Rails](https://github.com/metaskills/less-rails) ⭐ 338 | 🐛 11 | 🌐 Ruby | 📅 2022-02-10 - Less for Rails.
 * [CSSHórus](https://github.com/firminoweb/csshorus) ⭐ 69 | 🐛 1 | 🌐 CSS | 📅 2014-04-16 - 	Library for development of responsive and mobile websites.
 * [Bootstrap a11y theme](https://github.com/bassjobsen/bootstrap-a11y-theme) ⭐ 32 | 🐛 1 | 🌐 CSS | 📅 2014-02-27 - Makes web accessibility easier for Bootstrap developers.
@@ -80,7 +80,7 @@ Less is a open source dynamic style sheet language that can be compiled into Cas
 * [Bootstrap Grid Only](https://github.com/zirafa/bootstrap-grid-only) ⭐ 444 | 🐛 3 | 🌐 CSS | 📅 2017-08-16 - Bootstrap's responsive grid and responsive utility classes only, without any extras. Lightweight yet still powerful. Style to taste.
 * [Order.Less](https://github.com/chromice/order.less) ⭐ 21 | 🐛 0 | 🌐 CSS | 📅 2017-08-09 - Baseline alignment, column grids and modular scales.
 * [Grid System](https://github.com/goodpixels/less-grid-system) ⭐ 8 | 🐛 1 | 🌐 CSS | 📅 2015-10-07 - Super-easy to use, markup-independent grid system.
-* [Less Zen Grid](https://github.com/bassjobsen/LESS-Zen-Grid) ⭐ 5 | 🐛 0 | 🌐 CSS | 📅 2014-09-08 - Implementation of [Zen Grids](https://github.com/JohnAlbin/zen-grids) ⭐ 228 | 🐛 23 | 🌐 CSS | 📅 2022-01-26 in Less.
+* [Less Zen Grid](https://github.com/bassjobsen/LESS-Zen-Grid) ⭐ 5 | 🐛 0 | 🌐 CSS | 📅 2014-09-08 - Implementation of [Zen Grids](https://github.com/JohnAlbin/zen-grids) ⭐ 227 | 🐛 23 | 🌐 CSS | 📅 2022-01-26 in Less.
 * [Flexible Grid System](http://flexible.gs/) - This framework will let you create your web applications in a flexible way that you've never experienced before.
 * [Fluidable](http://fluidable.com/) - Fluidable is a mobile first, responsive grid system. It is standalone, lightweight & built using Less.
 
@@ -115,13 +115,13 @@ Less is a open source dynamic style sheet language that can be compiled into Cas
 ### Miscellaneous
 
 * [Retina.js](https://github.com/imulus/retinajs) ⚠️ Archived - JavaScript, SCSS, Sass, Less, and Stylus helpers for rendering high-resolution image variants.
-* [Lesshat](https://github.com/madebysource/lesshat) ⭐ 2,165 | 🐛 59 | 🌐 JavaScript | 📅 2022-03-23 - Smart mixins library.
-* [Preboot](https://github.com/mdo/preboot) ⭐ 1,659 | 🐛 5 | 🌐 CSS | 📅 2016-01-20 - Collection of mixins and variables for writing better CSS.
+* [Lesshat](https://github.com/madebysource/lesshat) ⭐ 2,164 | 🐛 59 | 🌐 JavaScript | 📅 2022-03-23 - Smart mixins library.
+* [Preboot](https://github.com/mdo/preboot) ⭐ 1,658 | 🐛 5 | 🌐 CSS | 📅 2016-01-20 - Collection of mixins and variables for writing better CSS.
 * [Est](https://github.com/ecomfe/est/) ⭐ 393 | 🐛 5 | 🌐 Less | 📅 2023-03-02 - 	Mixin library.
 * [Dynamic Stylesheet](https://github.com/mrkrupski/LESS-Dynamic-Stylesheet) ⭐ 96 | 🐛 0 | 🌐 CSS | 📅 2015-01-15 - Set of useful mixins.
 * [Shape](https://github.com/fahad19/shape.less) ⭐ 35 | 🐛 1 | 🌐 CSS | 📅 2013-10-22 - Collection of mixins for various shapes.
 * [Bidi](https://github.com/danielkatz/less-bidi) ⭐ 14 | 🐛 0 | 🌐 CSS | 📅 2016-03-27 - Set of mixins for creating bi-directional styling.
-* [Normalize](https://github.com/segundofdez/normalize.less) ⭐ 13 | 🐛 0 | 🌐 CSS | 📅 2018-11-16 - 	Modularized famous [normalize.css](https://github.com/necolas/normalize.css/) ⭐ 53,497 | 🐛 75 | 🌐 CSS | 📅 2024-06-12 using Less.
+* [Normalize](https://github.com/segundofdez/normalize.less) ⭐ 13 | 🐛 0 | 🌐 CSS | 📅 2018-11-16 - 	Modularized famous [normalize.css](https://github.com/necolas/normalize.css/) ⭐ 53,494 | 🐛 75 | 🌐 CSS | 📅 2024-06-12 using Less.
 * [Lessmore](https://github.com/belyan/lessmore) ⭐ 6 | 🐛 0 | 🌐 CSS | 📅 2017-02-27 - 	Mixins library. Cross-browser support for the CSS3 features and more.
 * [TRRtoolbelt](https://github.com/therebelrobot/tRRtoolbelt.less) ⭐ 2 | 🐛 0 | 🌐 CSS | 📅 2014-01-09 - Mixins and functions for common actions.
 * [3L](http://mateuszkocz.github.io/3l/) - Mixins library.
@@ -192,8 +192,8 @@ Less is a open source dynamic style sheet language that can be compiled into Cas
 
 ## GUIs, Editors and Plugins
 
-* [Hayaky](https://github.com/hayaku/hayaku) ⭐ 963 | 🐛 110 | 🌐 Python | 📅 2019-06-24 - Hayaku is a bundle of useful scripts aiming for rapid front-end web development.
-* [Grunt Contrib](https://github.com/gruntjs/grunt-contrib-less) ⭐ 660 | 🐛 28 | 🌐 JavaScript | 📅 2026-06-23 - Compile Less files to CSS using Grunt.
+* [Hayaky](https://github.com/hayaku/hayaku) ⭐ 962 | 🐛 110 | 🌐 Python | 📅 2019-06-24 - Hayaku is a bundle of useful scripts aiming for rapid front-end web development.
+* [Grunt Contrib](https://github.com/gruntjs/grunt-contrib-less) ⭐ 659 | 🐛 28 | 🌐 JavaScript | 📅 2026-06-23 - Compile Less files to CSS using Grunt.
 * [Vim Less](https://github.com/groenewege/vim-less) ⭐ 598 | 🐛 6 | 🌐 VimL | 📅 2016-04-25 - This vim bundle adds syntax highlighting, indenting and autocompletion.
 * [Gulp Less](https://github.com/plus3network/gulp-less) ⭐ 557 | 🐛 9 | 🌐 JavaScript | 📅 2021-06-20 - Plugin for Gulp.
 * [Less Sublime](https://github.com/danro/Less-sublime) ⭐ 499 | 🐛 0 | 🌐 Less | 📅 2023-05-17 - Syntax highlighting for Sublime Text.
@@ -303,7 +303,7 @@ Less is a open source dynamic style sheet language that can be compiled into Cas
 
 ## Community
 
-* [Contributing to Less](https://github.com/less/less.js/blob/master/CONTRIBUTING.md) ⭐ 17,017 | 🐛 189 | 🌐 JavaScript | 📅 2026-10-20
+* [Contributing to Less](https://github.com/less/less.js/blob/master/CONTRIBUTING.md) ⭐ 17,014 | 🐛 189 | 🌐 JavaScript | 📅 2026-10-22
 * [Freenode](http://webchat.freenode.net/?randomnick=1\&channels=%23%23lesscss)
 * [Medium](https://medium.com/search?q=less%20css)
 * [Quora](https://www.quora.com/topic/LESS-stylesheet-language)
@@ -328,4 +328,4 @@ To the extent possible under law, [Lucas Bassetti](http://lucasbassetti.com.br) 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-22._
