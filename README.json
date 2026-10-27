@@ -15,11 +15,11 @@
             "id": 34526884,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-26T09:48:14Z",
-            "open_issues": 1102,
+            "last_commit": "2026-10-27T17:50:13Z",
+            "open_issues": 1134,
             "owner": "ant-design",
             "repo": "ant-design",
-            "stars": 99904,
+            "stars": 99929,
             "topics": [
               "ant-design",
               "antd",
@@ -1376,7 +1376,7 @@
             "language": "JavaScript",
             "license": "Apache-2.0",
             "last_commit": "2026-10-22T16:03:34Z",
-            "open_issues": 191,
+            "open_issues": 192,
             "owner": "less",
             "repo": "less.js",
             "stars": 17013,
@@ -1393,7 +1393,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T18:38:28.274Z",
+    "last_updated": "2026-10-27T17:55:29.586Z",
     "original_repository_info": {
       "archived": false,
       "description": ":sunglasses: A curated list of awesome {Less}",
