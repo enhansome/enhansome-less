@@ -15,11 +15,11 @@
             "id": 34526884,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-09T21:25:02Z",
-            "open_issues": 1150,
+            "last_commit": "2026-11-10T09:17:52Z",
+            "open_issues": 1144,
             "owner": "ant-design",
             "repo": "ant-design",
-            "stars": 100127,
+            "stars": 100145,
             "topics": [
               "ant-design",
               "antd",
@@ -463,7 +463,7 @@
                 "open_issues": 42,
                 "owner": "strues",
                 "repo": "retinajs",
-                "stars": 4373,
+                "stars": 4372,
                 "topics": [
                   "dpi",
                   "image",
@@ -1393,7 +1393,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T22:15:21.247Z",
+    "last_updated": "2026-11-10T19:39:03.036Z",
     "original_repository_info": {
       "archived": false,
       "description": ":sunglasses: A curated list of awesome {Less}",
