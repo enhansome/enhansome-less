@@ -53,7 +53,7 @@ Less is a open source dynamic style sheet language that can be compiled into Cas
 
 ## UI/Theme Frameworks and Components
 
-* [Ant Design](https://github.com/ant-design/ant-design/) ⭐ 100,317 | 🐛 1,132 | 🌐 TypeScript | 📅 2026-11-20 - 	An enterprise-class UI design language and React-based implementation.
+* [Ant Design](https://github.com/ant-design/ant-design/) ⭐ 100,327 | 🐛 1,136 | 🌐 TypeScript | 📅 2026-11-21 - 	An enterprise-class UI design language and React-based implementation.
 * [Less Rails](https://github.com/metaskills/less-rails) ⭐ 339 | 🐛 11 | 🌐 Ruby | 📅 2022-02-10 - Less for Rails.
 * [CSSHórus](https://github.com/firminoweb/csshorus) ⭐ 69 | 🐛 1 | 🌐 CSS | 📅 2014-04-16 - 	Library for development of responsive and mobile websites.
 * [Bootstrap a11y theme](https://github.com/bassjobsen/bootstrap-a11y-theme) ⭐ 32 | 🐛 1 | 🌐 CSS | 📅 2014-02-27 - Makes web accessibility easier for Bootstrap developers.
@@ -116,7 +116,7 @@ Less is a open source dynamic style sheet language that can be compiled into Cas
 
 * [Retina.js](https://github.com/imulus/retinajs) ⚠️ Archived - JavaScript, SCSS, Sass, Less, and Stylus helpers for rendering high-resolution image variants.
 * [Lesshat](https://github.com/madebysource/lesshat) ⭐ 2,162 | 🐛 59 | 🌐 JavaScript | 📅 2022-03-23 - Smart mixins library.
-* [Preboot](https://github.com/mdo/preboot) ⭐ 1,656 | 🐛 5 | 🌐 CSS | 📅 2016-01-20 - Collection of mixins and variables for writing better CSS.
+* [Preboot](https://github.com/mdo/preboot) ⭐ 1,655 | 🐛 5 | 🌐 CSS | 📅 2016-01-20 - Collection of mixins and variables for writing better CSS.
 * [Est](https://github.com/ecomfe/est/) ⭐ 393 | 🐛 5 | 🌐 Less | 📅 2023-03-02 - 	Mixin library.
 * [Dynamic Stylesheet](https://github.com/mrkrupski/LESS-Dynamic-Stylesheet) ⭐ 96 | 🐛 0 | 🌐 CSS | 📅 2015-01-15 - Set of useful mixins.
 * [Shape](https://github.com/fahad19/shape.less) ⭐ 35 | 🐛 1 | 🌐 CSS | 📅 2013-10-22 - Collection of mixins for various shapes.
@@ -328,4 +328,4 @@ To the extent possible under law, [Lucas Bassetti](http://lucasbassetti.com.br) 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-21._
